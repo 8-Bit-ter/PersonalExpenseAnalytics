@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,transaction_type,category,subcategory,amount,currency,payment_method,merchant,city,account_type,monthly_budget,remaining_budget,savings_goal,transaction_status,notes
+PF000001,2025-07-28,Expense,Shopping,Electronics,15.58,USD,Debit Card,Uber,Toronto,Savings,2000,1678.98,5000,Pending,Sample record
+PF000002,2025-03-27,Expense,Shopping,Electronics,144.05,USD,Bank Transfer,Uber,Toronto,Savings,2000,1669.24,5000,Pending,Sample record
+PF000003,2025-01-08,Income,Salary,Monthly,347.84,USD,Debit Card,Amazon,London,Savings,2000,655.5,5000,Pending,Sample record
+PF000004,2025-10-04,Expense,Transport,Taxi,234.5,USD,Digital Wallet,Walmart,Sydney,Savings,2000,398.48,5000,Pending,Sample record
+PF000005,2025-09-12,Expense,Food,Restaurant,39.85,USD,Bank Transfer,Local Store,Toronto,Checking,2000,315.86,5000,Pending,Sample record
+PF000006,2025-10-27,Expense,Bills,Utilities,351.96,USD,Bank Transfer,Uber,Toronto,Checking,2000,1685.01,5000,Pending,Sample record
+PF000007,2025-03-22,Expense,Food,Groceries,218.69,USD,Credit Card,Employer,Sydney,Credit,2000,1096.24,5000,Pending,Sample record
+PF000008,2025-10-18,Expense,Food,Groceries,328.13,USD,Debit Card,Employer,Sydney,Savings,2000,1332.11,5000,Completed,Sample record
+PF000009,2025-04-14,Expense,Shopping,Electronics,290.91,USD,Digital Wallet,Local Store,Lahore,Credit,2000,1726.04,5000,Completed,Sample record
+PF000010,2025-09-07,Income,Salary,Monthly,335.77,USD,Cash,Uber,Sydney,Savings,2000,1737.83,5000,Completed,Sample record
+PF000011,2025-06-07,Expense,Bills,Utilities,192.46,USD,Digital Wallet,Walmart,New York,Savings,2000,588.12,5000,Pending,Sample record
+PF000012,2025-03-17,Income,Salary,Monthly,361.09,USD,Debit Card,Walmart,New York,Savings,2000,953.46,5000,Pending,Sample record
+PF000013,2025-08-11,Expense,Food,Groceries,162.2,USD,Digital Wallet,Amazon,Toronto,Credit,2000,1698.3,5000,Completed,Sample record
+PF000014,2025-09-27,Expense,Shopping,Clothing,461.7,USD,Bank Transfer,Local Store,London,Savings,2000,1163.65,5000,Pending,Sample record
+PF000015,2025-09-24,Expense,Bills,Internet,326.95,USD,Digital Wallet,Uber,Lahore,Savings,2000,1450.72,5000,Pending,Sample record
+PF000016,2025-02-17,Income,Salary,Monthly,10.29,USD,Cash,Amazon,New York,Savings,2000,1770.31,5000,Pending,Sample record
+PF000017,2025-02-28,Expense,Bills,Utilities,226.5,USD,Bank Transfer,Local Store,Sydney,Checking,2000,1654.28,5000,Completed,Sample record
+PF000018,2025-09-18,Expense,Bills,Internet,177.77,USD,Credit Card,Uber,Lahore,Credit,2000,713.39,5000,Pending,Sample record
+PF000019,2025-02-24,Expense,Transport,Fuel,463.3,USD,Debit Card,Amazon,Lahore,Credit,2000,608.4,5000,Pending,Sample record
+PF000020,2025-10-03,Income,Salary,Monthly,278.61,USD,Digital Wallet,Walmart,Toronto,Checking,2000,1486.48,5000,Completed,Sample record
+PF000021,2025-12-28,Expense,Bills,Utilities,439.11,USD,Credit Card,Amazon,Sydney,Savings,2000,1659.53,5000,Pending,Sample record
+PF000022,2025-02-06,Expense,Shopping,Clothing,29.97,USD,Bank Transfer,Uber,New York,Savings,2000,343.55,5000,Completed,Sample record
+PF000023,2025-11-04,Expense,Food,Restaurant,190.84,USD,Credit Card,Employer,Toronto,Checking,2000,1309.79,5000,Pending,Sample record
+PF000024,2025-03-17,Expense,Bills,Utilities,381.68,USD,Credit Card,Uber,Toronto,Credit,2000,506.02,5000,Completed,Sample record
+PF000025,2025-10-19,Expense,Bills,Utilities,88.58,USD,Digital Wallet,Local Store,Sydney,Savings,2000,1383.75,5000,Pending,Sample record
+PF000026,2025-06-27,Expense,Transport,Taxi,403.74,USD,Cash,Employer,New York,Savings,2000,1096.76,5000,Completed,Sample record
+PF000027,2025-09-24,Expense,Transport,Fuel,32.52,USD,Debit Card,Walmart,Toronto,Credit,2000,982.3,5000,Completed,Sample record
+PF000028,2025-01-16,Expense,Bills,Utilities,137.99,USD,Digital Wallet,Walmart,London,Savings,2000,681.89,5000,Completed,Sample record
+PF000029,2025-03-18,Income,Salary,Monthly,403.8,USD,Digital Wallet,Uber,Toronto,Savings,2000,1060.38,5000,Completed,Sample record
+PF000030,2025-01-13,Income,Salary,Monthly,94.0,USD,Bank Transfer,Walmart,London,Savings,2000,972.16,5000,Completed,Sample record
+PF000031,2025-03-02,Income,Salary,Monthly,15.65,USD,Cash,Uber,Toronto,Checking,2000,401.1,5000,Pending,Sample record
+PF000032,2025-09-20,Income,Salary,Monthly,174.77,USD,Bank Transfer,Employer,Sydney,Savings,2000,1521.05,5000,Pending,Sample record
+PF000033,2025-04-22,Income,Salary,Monthly,273.4,USD,Bank Transfer,Amazon,New York,Credit,2000,1098.3,5000,Pending,Sample record
+PF000034,2025-01-20,Expense,Food,Groceries,43.77,USD,Debit Card,Employer,Lahore,Checking,2000,1582.18,5000,Completed,Sample record
+PF000035,2025-08-15,Expense,Transport,Taxi,209.75,USD,Debit Card,Amazon,Toronto,Checking,2000,1358.26,5000,Completed,Sample record
+PF000036,2025-01-18,Expense,Transport,Taxi,182.67,USD,Debit Card,Uber,London,Checking,2000,980.47,5000,Completed,Sample record
+PF000037,2025-09-06,Expense,Transport,Fuel,32.95,USD,Bank Transfer,Local Store,New York,Credit,2000,608.16,5000,Completed,Sample record
+PF000038,2025-01-27,Income,Salary,Monthly,486.26,USD,Credit Card,Uber,New York,Savings,2000,545.07,5000,Completed,Sample record
+PF000039,2025-12-28,Expense,Transport,Taxi,99.16,USD,Cash,Walmart,New York,Credit,2000,237.97,5000,Pending,Sample record
+PF000040,2025-07-06,Expense,Bills,Internet,203.07,USD,Credit Card,Uber,New York,Credit,2000,1355.06,5000,Pending,Sample record
+PF000041,2025-12-07,Expense,Food,Groceries,383.53,USD,Bank Transfer,Walmart,London,Credit,2000,1699.46,5000,Completed,Sample record
+PF000042,2025-10-19,Expense,Shopping,Electronics,440.89,USD,Bank Transfer,Uber,New York,Checking,2000,1750.56,5000,Pending,Sample record
+PF000043,2025-11-15,Expense,Shopping,Clothing,116.07,USD,Credit Card,Amazon,Sydney,Savings,2000,958.58,5000,Completed,Sample record
+PF000044,2025-02-23,Income,Salary,Monthly,319.99,USD,Debit Card,Local Store,Sydney,Savings,2000,235.81,5000,Completed,Sample record
+PF000045,2025-01-19,Expense,Shopping,Clothing,118.91,USD,Bank Transfer,Local Store,London,Credit,2000,414.33,5000,Pending,Sample record
+PF000046,2025-03-17,Expense,Food,Groceries,410.56,USD,Credit Card,Local Store,New York,Savings,2000,1595.2,5000,Pending,Sample record
+PF000047,2025-06-18,Expense,Transport,Taxi,404.27,USD,Credit Card,Uber,Lahore,Credit,2000,768.04,5000,Completed,Sample record
+PF000048,2025-07-18,Expense,Shopping,Electronics,52.23,USD,Bank Transfer,Employer,Sydney,Credit,2000,1192.12,5000,Pending,Sample record
+PF000049,2025-06-11,Expense,Transport,Taxi,343.34,USD,Credit Card,Local Store,Toronto,Credit,2000,643.78,5000,Pending,Sample record
+PF000050,2025-08-26,Expense,Food,Restaurant,230.82,USD,Debit Card,Amazon,Toronto,Savings,2000,1531.45,5000,Pending,Sample record
+PF000051,2025-01-24,Expense,Transport,Fuel,125.61,USD,Cash,Walmart,Lahore,Checking,2000,390.99,5000,Completed,Sample record
+PF000052,2025-04-12,Expense,Transport,Taxi,395.54,USD,Digital Wallet,Amazon,Sydney,Checking,2000,1563.61,5000,Pending,Sample record
+PF000053,2025-05-05,Expense,Bills,Internet,494.17,USD,Debit Card,Local Store,Sydney,Savings,2000,1124.63,5000,Completed,Sample record
+PF000054,2025-11-18,Expense,Bills,Internet,419.52,USD,Bank Transfer,Employer,London,Credit,2000,298.09,5000,Pending,Sample record
+PF000055,2025-11-24,Expense,Shopping,Clothing,293.27,USD,Debit Card,Employer,Sydney,Checking,2000,313.74,5000,Pending,Sample record
+PF000056,2025-06-07,Income,Salary,Monthly,333.19,USD,Bank Transfer,Uber,New York,Credit,2000,438.2,5000,Pending,Sample record
+PF000057,2025-04-08,Income,Salary,Monthly,386.54,USD,Credit Card,Local Store,Sydney,Checking,2000,1714.2,5000,Pending,Sample record
+PF000058,2025-11-10,Expense,Food,Restaurant,253.48,USD,Credit Card,Local Store,Sydney,Credit,2000,1004.88,5000,Completed,Sample record
+PF000059,2025-11-08,Expense,Bills,Utilities,158.63,USD,Bank Transfer,Employer,Lahore,Savings,2000,849.6,5000,Pending,Sample record
+PF000060,2025-05-10,Expense,Bills,Internet,460.45,USD,Cash,Uber,Sydney,Credit,2000,1766.04,5000,Completed,Sample record
+PF000061,2025-01-01,Expense,Food,Restaurant,106.48,USD,Bank Transfer,Employer,Lahore,Checking,2000,1454.9,5000,Pending,Sample record
+PF000062,2025-06-25,Expense,Transport,Taxi,30.88,USD,Bank Transfer,Amazon,Sydney,Checking,2000,615.25,5000,Completed,Sample record
+PF000063,2025-12-10,Income,Salary,Monthly,279.77,USD,Bank Transfer,Local Store,New York,Checking,2000,766.44,5000,Completed,Sample record
+PF000064,2025-11-21,Income,Salary,Monthly,46.32,USD,Credit Card,Amazon,Sydney,Credit,2000,1324.01,5000,Pending,Sample record
+PF000065,2025-02-18,Income,Salary,Monthly,185.04,USD,Bank Transfer,Walmart,London,Checking,2000,1002.07,5000,Pending,Sample record
+PF000066,2025-12-11,Expense,Shopping,Electronics,81.45,USD,Digital Wallet,Employer,Lahore,Credit,2000,616.37,5000,Completed,Sample record
+PF000067,2025-12-04,Expense,Bills,Utilities,13.54,USD,Digital Wallet,Amazon,Sydney,Savings,2000,256.46,5000,Pending,Sample record
+PF000068,2025-07-05,Expense,Shopping,Electronics,378.55,USD,Credit Card,Amazon,London,Checking,2000,449.69,5000,Completed,Sample record
+PF000069,2025-07-01,Income,Salary,Monthly,48.22,USD,Digital Wallet,Uber,New York,Credit,2000,1198.8,5000,Completed,Sample record
+PF000070,2025-05-06,Expense,Shopping,Clothing,223.38,USD,Cash,Amazon,Sydney,Credit,2000,878.95,5000,Pending,Sample record
+PF000071,2025-02-18,Expense,Shopping,Electronics,484.65,USD,Debit Card,Local Store,Lahore,Checking,2000,955.02,5000,Completed,Sample record
+PF000072,2025-09-26,Income,Salary,Monthly,468.41,USD,Cash,Uber,New York,Checking,2000,1175.24,5000,Pending,Sample record
+PF000073,2025-08-06,Expense,Transport,Fuel,187.19,USD,Digital Wallet,Employer,Toronto,Checking,2000,1792.2,5000,Pending,Sample record
+PF000074,2025-10-22,Expense,Bills,Internet,60.89,USD,Digital Wallet,Local Store,Sydney,Credit,2000,1019.07,5000,Pending,Sample record
+PF000075,2025-10-05,Expense,Food,Groceries,453.17,USD,Digital Wallet,Walmart,Sydney,Savings,2000,1542.07,5000,Completed,Sample record
+PF000076,2025-01-20,Income,Salary,Monthly,138.33,USD,Debit Card,Employer,London,Checking,2000,1587.45,5000,Pending,Sample record
+PF000077,2025-11-22,Income,Salary,Monthly,41.79,USD,Debit Card,Uber,Lahore,Checking,2000,606.7,5000,Pending,Sample record
+PF000078,2025-08-19,Income,Salary,Monthly,40.54,USD,Debit Card,Walmart,Lahore,Checking,2000,699.72,5000,Completed,Sample record
+PF000079,2025-02-06,Expense,Food,Restaurant,233.08,USD,Debit Card,Walmart,Toronto,Checking,2000,846.41,5000,Completed,Sample record
+PF000080,2025-11-23,Expense,Food,Groceries,433.32,USD,Credit Card,Amazon,Lahore,Credit,2000,1221.9,5000,Pending,Sample record
+PF000081,2025-02-08,Expense,Transport,Taxi,17.49,USD,Bank Transfer,Walmart,New York,Credit,2000,814.19,5000,Pending,Sample record
+PF000082,2025-06-09,Expense,Transport,Fuel,232.03,USD,Debit Card,Amazon,London,Checking,2000,1489.45,5000,Completed,Sample record
+PF000083,2025-03-20,Expense,Bills,Utilities,275.62,USD,Bank Transfer,Local Store,Sydney,Credit,2000,628.11,5000,Completed,Sample record
+PF000084,2025-03-17,Expense,Bills,Internet,440.73,USD,Debit Card,Uber,New York,Credit,2000,1339.71,5000,Pending,Sample record
+PF000085,2025-04-25,Expense,Bills,Internet,124.37,USD,Cash,Employer,London,Savings,2000,722.21,5000,Pending,Sample record
+PF000086,2025-04-27,Expense,Transport,Fuel,68.43,USD,Cash,Local Store,Sydney,Checking,2000,904.17,5000,Completed,Sample record
+PF000087,2025-10-26,Expense,Shopping,Clothing,69.67,USD,Cash,Employer,New York,Credit,2000,1439.65,5000,Completed,Sample record
+PF000088,2025-03-24,Income,Salary,Monthly,341.75,USD,Credit Card,Walmart,Lahore,Credit,2000,948.86,5000,Pending,Sample record
+PF000089,2025-03-16,Expense,Food,Groceries,204.07,USD,Bank Transfer,Amazon,New York,Savings,2000,1152.32,5000,Completed,Sample record
+PF000090,2025-08-22,Expense,Food,Restaurant,49.01,USD,Bank Transfer,Employer,Lahore,Savings,2000,376.3,5000,Completed,Sample record
+PF000091,2025-09-01,Expense,Shopping,Electronics,106.61,USD,Bank Transfer,Employer,Lahore,Savings,2000,674.34,5000,Pending,Sample record
+PF000092,2025-11-20,Expense,Bills,Utilities,486.07,USD,Debit Card,Walmart,London,Credit,2000,1027.81,5000,Completed,Sample record
+PF000093,2025-10-06,Expense,Transport,Fuel,321.49,USD,Cash,Walmart,London,Savings,2000,1592.2,5000,Completed,Sample record
+PF000094,2025-12-27,Expense,Shopping,Clothing,474.51,USD,Credit Card,Amazon,Lahore,Savings,2000,656.79,5000,Completed,Sample record
+PF000095,2025-09-20,Expense,Transport,Taxi,133.38,USD,Credit Card,Employer,Lahore,Credit,2000,1323.89,5000,Pending,Sample record
+PF000096,2025-08-13,Expense,Shopping,Clothing,491.6,USD,Cash,Employer,Sydney,Checking,2000,1321.35,5000,Completed,Sample record
+PF000097,2025-06-06,Expense,Food,Restaurant,62.91,USD,Debit Card,Employer,Toronto,Savings,2000,273.05,5000,Completed,Sample record
+PF000098,2025-01-25,Expense,Transport,Taxi,253.37,USD,Cash,Walmart,Lahore,Savings,2000,1223.25,5000,Completed,Sample record
+PF000099,2025-05-23,Expense,Shopping,Electronics,156.82,USD,Debit Card,Walmart,Lahore,Credit,2000,1318.75,5000,Completed,Sample record
+PF000100,2025-03-20,Expense,Food,Groceries,249.85,USD,Bank Transfer,Employer,New York,Checking,2000,220.43,5000,Completed,Sample record
+PF000101,2025-08-09,Expense,Bills,Internet,342.11,USD,Digital Wallet,Local Store,Sydney,Savings,2000,699.09,5000,Pending,Sample record
+PF000102,2025-07-01,Expense,Bills,Utilities,333.29,USD,Credit Card,Uber,Toronto,Savings,2000,556.45,5000,Completed,Sample record
+PF000103,2025-02-17,Expense,Food,Restaurant,496.95,USD,Bank Transfer,Employer,Lahore,Credit,2000,1325.15,5000,Pending,Sample record
+PF000104,2025-11-19,Expense,Transport,Taxi,321.21,USD,Bank Transfer,Walmart,Toronto,Savings,2000,483.17,5000,Completed,Sample record
+PF000105,2025-04-06,Expense,Bills,Internet,407.83,USD,Bank Transfer,Employer,Lahore,Savings,2000,699.83,5000,Completed,Sample record
+PF000106,2025-03-26,Income,Salary,Monthly,54.61,USD,Digital Wallet,Amazon,London,Credit,2000,1320.02,5000,Pending,Sample record
+PF000107,2025-10-13,Expense,Food,Groceries,179.18,USD,Cash,Employer,New York,Savings,2000,1757.06,5000,Completed,Sample record
+PF000108,2025-10-11,Expense,Shopping,Electronics,385.69,USD,Credit Card,Amazon,New York,Credit,2000,674.85,5000,Completed,Sample record
+PF000109,2025-06-15,Expense,Food,Restaurant,333.69,USD,Cash,Uber,Toronto,Checking,2000,1240.11,5000,Pending,Sample record
+PF000110,2025-10-19,Income,Salary,Monthly,367.46,USD,Cash,Local Store,Toronto,Savings,2000,1404.41,5000,Completed,Sample record
+PF000111,2025-11-20,Expense,Shopping,Clothing,456.25,USD,Digital Wallet,Amazon,Toronto,Credit,2000,1068.88,5000,Completed,Sample record
+PF000112,2025-12-21,Income,Salary,Monthly,235.25,USD,Digital Wallet,Employer,London,Savings,2000,666.74,5000,Pending,Sample record
+PF000113,2025-11-02,Expense,Bills,Internet,9.41,USD,Debit Card,Local Store,Sydney,Savings,2000,258.05,5000,Pending,Sample record
+PF000114,2025-08-22,Expense,Shopping,Electronics,170.57,USD,Debit Card,Uber,London,Checking,2000,1641.54,5000,Completed,Sample record
+PF000115,2025-07-26,Expense,Shopping,Electronics,13.13,USD,Digital Wallet,Amazon,London,Credit,2000,1066.25,5000,Completed,Sample record
+PF000116,2025-10-23,Income,Salary,Monthly,344.99,USD,Digital Wallet,Employer,Lahore,Credit,2000,364.8,5000,Completed,Sample record
+PF000117,2025-02-20,Expense,Food,Groceries,246.97,USD,Cash,Local Store,Toronto,Checking,2000,1162.87,5000,Completed,Sample record
+PF000118,2025-09-09,Expense,Food,Groceries,192.43,USD,Digital Wallet,Local Store,London,Savings,2000,1681.76,5000,Pending,Sample record
+PF000119,2025-06-20,Expense,Bills,Internet,31.6,USD,Debit Card,Amazon,Lahore,Checking,2000,952.41,5000,Pending,Sample record
+PF000120,2025-06-02,Expense,Transport,Fuel,48.62,USD,Credit Card,Walmart,Toronto,Checking,2000,1281.22,5000,Completed,Sample record
+PF000121,2025-11-28,Income,Salary,Monthly,378.69,USD,Bank Transfer,Walmart,Sydney,Savings,2000,873.1,5000,Pending,Sample record
+PF000122,2025-06-16,Expense,Food,Groceries,372.47,USD,Bank Transfer,Amazon,Sydney,Credit,2000,1007.43,5000,Completed,Sample record
+PF000123,2025-10-16,Income,Salary,Monthly,361.79,USD,Credit Card,Uber,Lahore,Credit,2000,585.74,5000,Pending,Sample record
+PF000124,2025-12-11,Expense,Bills,Internet,465.29,USD,Digital Wallet,Amazon,New York,Credit,2000,1705.01,5000,Completed,Sample record
+PF000125,2025-12-19,Income,Salary,Monthly,58.94,USD,Digital Wallet,Employer,London,Credit,2000,280.45,5000,Completed,Sample record
+PF000126,2025-06-02,Expense,Transport,Fuel,318.32,USD,Debit Card,Walmart,Lahore,Savings,2000,1348.01,5000,Completed,Sample record
+PF000127,2025-01-01,Expense,Bills,Utilities,424.25,USD,Bank Transfer,Walmart,Toronto,Savings,2000,1455.85,5000,Pending,Sample record
+PF000128,2025-01-22,Expense,Transport,Taxi,488.32,USD,Debit Card,Local Store,New York,Credit,2000,1553.6,5000,Pending,Sample record
+PF000129,2025-08-17,Income,Salary,Monthly,72.95,USD,Cash,Amazon,Toronto,Credit,2000,1541.74,5000,Completed,Sample record
+PF000130,2025-02-21,Expense,Bills,Internet,143.02,USD,Digital Wallet,Walmart,Toronto,Checking,2000,1515.48,5000,Completed,Sample record
+PF000131,2025-06-19,Expense,Bills,Internet,186.53,USD,Cash,Uber,New York,Checking,2000,1524.72,5000,Completed,Sample record
+PF000132,2025-08-24,Expense,Shopping,Electronics,475.13,USD,Digital Wallet,Uber,Toronto,Credit,2000,1178.34,5000,Pending,Sample record
+PF000133,2025-07-10,Expense,Food,Restaurant,59.7,USD,Cash,Amazon,Toronto,Savings,2000,1038.41,5000,Completed,Sample record
+PF000134,2025-05-19,Expense,Shopping,Clothing,372.13,USD,Cash,Uber,Toronto,Credit,2000,239.69,5000,Completed,Sample record
+PF000135,2025-05-22,Expense,Transport,Taxi,27.64,USD,Digital Wallet,Uber,Lahore,Savings,2000,1581.94,5000,Pending,Sample record
+PF000136,2025-10-09,Expense,Bills,Internet,133.0,USD,Bank Transfer,Local Store,Sydney,Savings,2000,360.04,5000,Pending,Sample record
+PF000137,2025-04-06,Expense,Bills,Internet,172.6,USD,Debit Card,Employer,Sydney,Savings,2000,636.88,5000,Completed,Sample record
+PF000138,2025-12-17,Expense,Bills,Internet,101.99,USD,Bank Transfer,Employer,New York,Checking,2000,1491.84,5000,Pending,Sample record
+PF000139,2025-10-25,Expense,Food,Groceries,309.73,USD,Cash,Employer,Sydney,Credit,2000,1671.03,5000,Completed,Sample record
+PF000140,2025-05-11,Income,Salary,Monthly,219.85,USD,Credit Card,Employer,New York,Checking,2000,692.09,5000,Completed,Sample record
+PF000141,2025-02-20,Expense,Food,Groceries,242.12,USD,Credit Card,Walmart,Sydney,Savings,2000,1306.79,5000,Completed,Sample record
+PF000142,2025-05-28,Expense,Food,Restaurant,465.8,USD,Digital Wallet,Employer,Sydney,Credit,2000,424.65,5000,Pending,Sample record
+PF000143,2025-04-02,Expense,Food,Restaurant,447.77,USD,Bank Transfer,Uber,Sydney,Checking,2000,866.29,5000,Pending,Sample record
+PF000144,2025-02-06,Expense,Shopping,Electronics,451.67,USD,Cash,Walmart,London,Savings,2000,1423.7,5000,Pending,Sample record
+PF000145,2025-09-18,Expense,Shopping,Clothing,106.63,USD,Debit Card,Uber,New York,Credit,2000,1695.44,5000,Completed,Sample record
+PF000146,2025-12-17,Expense,Bills,Utilities,146.0,USD,Debit Card,Local Store,Lahore,Credit,2000,492.78,5000,Completed,Sample record
+PF000147,2025-07-26,Expense,Bills,Internet,251.72,USD,Debit Card,Employer,Toronto,Credit,2000,1239.08,5000,Completed,Sample record
+PF000148,2025-08-17,Income,Salary,Monthly,267.95,USD,Bank Transfer,Uber,New York,Checking,2000,1514.03,5000,Completed,Sample record
+PF000149,2025-06-09,Income,Salary,Monthly,55.69,USD,Bank Transfer,Uber,Lahore,Credit,2000,1295.74,5000,Completed,Sample record
+PF000150,2025-01-14,Expense,Bills,Internet,218.87,USD,Credit Card,Local Store,Lahore,Credit,2000,384.73,5000,Completed,Sample record
+PF000151,2025-12-16,Expense,Bills,Utilities,353.64,USD,Bank Transfer,Amazon,Toronto,Credit,2000,1720.15,5000,Completed,Sample record
+PF000152,2025-01-14,Expense,Shopping,Electronics,379.69,USD,Debit Card,Amazon,London,Checking,2000,1635.97,5000,Pending,Sample record
+PF000153,2025-04-14,Expense,Shopping,Electronics,189.12,USD,Cash,Amazon,Toronto,Checking,2000,1275.32,5000,Pending,Sample record
+PF000154,2025-02-19,Expense,Food,Groceries,498.18,USD,Digital Wallet,Local Store,Lahore,Credit,2000,848.26,5000,Completed,Sample record
+PF000155,2025-03-01,Income,Salary,Monthly,320.77,USD,Digital Wallet,Employer,Toronto,Savings,2000,1187.88,5000,Pending,Sample record
+PF000156,2025-06-02,Expense,Food,Groceries,279.85,USD,Credit Card,Uber,London,Savings,2000,933.31,5000,Pending,Sample record
+PF000157,2025-07-12,Income,Salary,Monthly,8.08,USD,Debit Card,Employer,New York,Savings,2000,293.81,5000,Completed,Sample record
+PF000158,2025-12-05,Expense,Bills,Utilities,53.55,USD,Bank Transfer,Local Store,Toronto,Checking,2000,977.55,5000,Pending,Sample record
+PF000159,2025-06-23,Expense,Transport,Fuel,132.29,USD,Bank Transfer,Uber,Toronto,Savings,2000,311.61,5000,Completed,Sample record
+PF000160,2025-05-25,Expense,Transport,Taxi,401.15,USD,Cash,Uber,London,Savings,2000,1238.85,5000,Pending,Sample record
+PF000161,2025-06-12,Income,Salary,Monthly,481.79,USD,Bank Transfer,Walmart,Sydney,Checking,2000,653.17,5000,Completed,Sample record
+PF000162,2025-08-01,Income,Salary,Monthly,324.47,USD,Debit Card,Amazon,Sydney,Savings,2000,902.94,5000,Completed,Sample record
+PF000163,2025-08-17,Income,Salary,Monthly,206.32,USD,Cash,Amazon,London,Savings,2000,1764.61,5000,Pending,Sample record
+PF000164,2025-09-24,Expense,Transport,Taxi,69.88,USD,Bank Transfer,Amazon,Lahore,Checking,2000,828.77,5000,Completed,Sample record
+PF000165,2025-10-21,Income,Salary,Monthly,419.27,USD,Cash,Uber,London,Checking,2000,1518.04,5000,Pending,Sample record
+PF000166,2025-08-14,Expense,Bills,Utilities,102.87,USD,Debit Card,Local Store,New York,Credit,2000,559.19,5000,Pending,Sample record
+PF000167,2025-02-21,Expense,Bills,Internet,165.62,USD,Credit Card,Walmart,New York,Savings,2000,1425.03,5000,Completed,Sample record
+PF000168,2025-05-16,Expense,Shopping,Electronics,301.72,USD,Credit Card,Uber,Sydney,Checking,2000,1598.1,5000,Completed,Sample record
+PF000169,2025-02-23,Expense,Transport,Taxi,497.46,USD,Bank Transfer,Employer,Lahore,Checking,2000,1611.65,5000,Completed,Sample record
+PF000170,2025-09-26,Expense,Food,Restaurant,305.98,USD,Digital Wallet,Uber,Lahore,Savings,2000,1376.87,5000,Pending,Sample record
+PF000171,2025-10-15,Income,Salary,Monthly,262.47,USD,Cash,Employer,New York,Credit,2000,1784.65,5000,Completed,Sample record
+PF000172,2025-02-05,Expense,Transport,Fuel,234.78,USD,Bank Transfer,Amazon,Lahore,Savings,2000,1305.51,5000,Completed,Sample record
+PF000173,2025-11-01,Expense,Shopping,Clothing,310.21,USD,Bank Transfer,Employer,Lahore,Savings,2000,657.68,5000,Completed,Sample record
+PF000174,2025-05-26,Expense,Bills,Utilities,50.19,USD,Digital Wallet,Walmart,New York,Credit,2000,727.69,5000,Completed,Sample record
+PF000175,2025-12-18,Expense,Shopping,Electronics,197.42,USD,Bank Transfer,Employer,New York,Checking,2000,382.38,5000,Completed,Sample record
+PF000176,2025-09-12,Income,Salary,Monthly,435.67,USD,Cash,Amazon,Sydney,Checking,2000,813.48,5000,Completed,Sample record
+PF000177,2025-12-07,Expense,Transport,Fuel,477.65,USD,Bank Transfer,Walmart,Lahore,Checking,2000,1574.39,5000,Completed,Sample record
+PF000178,2025-02-16,Expense,Bills,Utilities,403.96,USD,Debit Card,Local Store,New York,Savings,2000,399.5,5000,Pending,Sample record
+PF000179,2025-04-24,Expense,Shopping,Electronics,327.84,USD,Cash,Amazon,Toronto,Credit,2000,695.55,5000,Pending,Sample record
+PF000180,2025-01-08,Expense,Food,Restaurant,88.79,USD,Bank Transfer,Uber,Sydney,Credit,2000,753.45,5000,Completed,Sample record
+PF000181,2025-05-14,Expense,Food,Groceries,412.71,USD,Credit Card,Amazon,London,Savings,2000,523.07,5000,Completed,Sample record
+PF000182,2025-07-07,Expense,Shopping,Electronics,104.56,USD,Bank Transfer,Amazon,New York,Savings,2000,943.63,5000,Completed,Sample record
+PF000183,2025-05-24,Income,Salary,Monthly,296.09,USD,Digital Wallet,Walmart,London,Checking,2000,832.2,5000,Pending,Sample record
+PF000184,2025-07-14,Income,Salary,Monthly,230.23,USD,Bank Transfer,Local Store,London,Savings,2000,1502.19,5000,Completed,Sample record
+PF000185,2025-01-02,Expense,Food,Groceries,40.86,USD,Digital Wallet,Employer,Lahore,Checking,2000,1695.78,5000,Pending,Sample record
+PF000186,2025-11-17,Income,Salary,Monthly,61.04,USD,Debit Card,Employer,New York,Checking,2000,1087.73,5000,Pending,Sample record
+PF000187,2025-05-18,Expense,Transport,Fuel,213.96,USD,Digital Wallet,Uber,Toronto,Checking,2000,1222.68,5000,Pending,Sample record
+PF000188,2025-12-02,Expense,Transport,Fuel,200.8,USD,Credit Card,Local Store,Toronto,Savings,2000,1105.02,5000,Pending,Sample record
+PF000189,2025-09-11,Expense,Shopping,Clothing,103.04,USD,Bank Transfer,Amazon,New York,Savings,2000,339.04,5000,Completed,Sample record
+PF000190,2025-01-23,Expense,Transport,Taxi,415.07,USD,Credit Card,Uber,Sydney,Checking,2000,615.46,5000,Completed,Sample record
+PF000191,2025-07-09,Income,Salary,Monthly,481.02,USD,Debit Card,Employer,New York,Checking,2000,1798.69,5000,Pending,Sample record
+PF000192,2025-06-13,Expense,Transport,Taxi,374.61,USD,Debit Card,Local Store,Sydney,Credit,2000,1232.05,5000,Pending,Sample record
+PF000193,2025-02-02,Expense,Transport,Taxi,292.89,USD,Debit Card,Walmart,London,Checking,2000,1654.38,5000,Pending,Sample record
+PF000194,2025-05-26,Income,Salary,Monthly,478.6,USD,Bank Transfer,Uber,New York,Checking,2000,1336.07,5000,Completed,Sample record
+PF000195,2025-06-21,Income,Salary,Monthly,292.27,USD,Digital Wallet,Employer,Lahore,Savings,2000,645.76,5000,Completed,Sample record
+PF000196,2025-11-27,Income,Salary,Monthly,462.99,USD,Digital Wallet,Uber,Toronto,Checking,2000,1468.46,5000,Pending,Sample record
+PF000197,2025-10-03,Expense,Food,Restaurant,172.35,USD,Cash,Uber,New York,Savings,2000,839.49,5000,Pending,Sample record
+PF000198,2025-10-08,Expense,Shopping,Electronics,471.82,USD,Digital Wallet,Employer,London,Checking,2000,1119.48,5000,Pending,Sample record
+PF000199,2025-03-10,Income,Salary,Monthly,270.92,USD,Credit Card,Amazon,Toronto,Credit,2000,1052.0,5000,Completed,Sample record
+PF000200,2025-09-10,Expense,Shopping,Electronics,361.5,USD,Debit Card,Local Store,London,Credit,2000,1224.27,5000,Pending,Sample record
+PF000201,2025-04-10,Expense,Transport,Taxi,302.04,USD,Credit Card,Amazon,London,Credit,2000,1396.36,5000,Completed,Sample record
+PF000202,2025-05-05,Expense,Transport,Taxi,280.44,USD,Digital Wallet,Local Store,New York,Credit,2000,1598.42,5000,Pending,Sample record
+PF000203,2025-08-20,Expense,Food,Groceries,294.28,USD,Credit Card,Employer,New York,Savings,2000,630.88,5000,Pending,Sample record
+PF000204,2025-07-25,Income,Salary,Monthly,328.33,USD,Debit Card,Walmart,Toronto,Checking,2000,1728.45,5000,Pending,Sample record
+PF000205,2025-07-03,Expense,Transport,Fuel,322.29,USD,Credit Card,Local Store,Sydney,Savings,2000,439.75,5000,Completed,Sample record
+PF000206,2025-05-18,Expense,Transport,Fuel,253.51,USD,Debit Card,Walmart,Sydney,Checking,2000,691.51,5000,Pending,Sample record
+PF000207,2025-09-09,Expense,Shopping,Electronics,496.25,USD,Bank Transfer,Walmart,Sydney,Savings,2000,531.5,5000,Pending,Sample record
+PF000208,2025-07-06,Expense,Bills,Internet,294.99,USD,Cash,Walmart,Toronto,Credit,2000,724.64,5000,Completed,Sample record
+PF000209,2025-03-23,Expense,Bills,Utilities,489.48,USD,Credit Card,Local Store,Sydney,Checking,2000,1693.71,5000,Pending,Sample record
+PF000210,2025-11-18,Income,Salary,Monthly,185.53,USD,Bank Transfer,Walmart,Sydney,Checking,2000,355.82,5000,Pending,Sample record
+PF000211,2025-05-01,Expense,Bills,Internet,256.72,USD,Debit Card,Employer,London,Savings,2000,581.86,5000,Pending,Sample record
+PF000212,2025-10-20,Income,Salary,Monthly,166.94,USD,Cash,Amazon,Sydney,Savings,2000,1620.16,5000,Completed,Sample record
+PF000213,2025-05-19,Expense,Transport,Taxi,333.44,USD,Cash,Local Store,Lahore,Credit,2000,1027.38,5000,Pending,Sample record
+PF000214,2025-02-12,Expense,Bills,Internet,220.35,USD,Cash,Employer,London,Credit,2000,1453.02,5000,Pending,Sample record
+PF000215,2025-05-19,Income,Salary,Monthly,270.84,USD,Cash,Employer,New York,Credit,2000,1470.69,5000,Completed,Sample record
+PF000216,2025-06-19,Expense,Bills,Utilities,184.37,USD,Digital Wallet,Uber,New York,Savings,2000,1166.3,5000,Pending,Sample record
+PF000217,2025-12-04,Expense,Food,Groceries,10.9,USD,Digital Wallet,Amazon,New York,Savings,2000,708.21,5000,Completed,Sample record
+PF000218,2025-08-19,Income,Salary,Monthly,313.36,USD,Digital Wallet,Amazon,Toronto,Checking,2000,479.82,5000,Pending,Sample record
+PF000219,2025-01-01,Expense,Shopping,Clothing,63.94,USD,Bank Transfer,Local Store,Lahore,Credit,2000,576.88,5000,Completed,Sample record
+PF000220,2025-07-16,Expense,Bills,Utilities,113.2,USD,Cash,Employer,London,Savings,2000,968.04,5000,Completed,Sample record
+PF000221,2025-01-18,Expense,Food,Groceries,209.02,USD,Credit Card,Employer,New York,Checking,2000,1781.71,5000,Completed,Sample record
+PF000222,2025-12-23,Expense,Food,Restaurant,407.3,USD,Credit Card,Uber,New York,Savings,2000,313.87,5000,Pending,Sample record
+PF000223,2025-08-15,Expense,Shopping,Electronics,467.9,USD,Cash,Local Store,New York,Checking,2000,868.48,5000,Pending,Sample record
+PF000224,2025-05-11,Expense,Food,Groceries,270.74,USD,Bank Transfer,Amazon,Lahore,Savings,2000,1151.39,5000,Completed,Sample record
+PF000225,2025-01-18,Income,Salary,Monthly,382.31,USD,Digital Wallet,Amazon,New York,Credit,2000,898.77,5000,Completed,Sample record
+PF000226,2025-06-05,Expense,Shopping,Clothing,20.02,USD,Credit Card,Local Store,Lahore,Checking,2000,490.84,5000,Pending,Sample record
+PF000227,2025-02-05,Expense,Bills,Utilities,398.2,USD,Debit Card,Walmart,Sydney,Savings,2000,1529.46,5000,Completed,Sample record
+PF000228,2025-01-10,Expense,Bills,Internet,121.1,USD,Debit Card,Employer,New York,Savings,2000,1763.33,5000,Completed,Sample record
+PF000229,2025-10-09,Expense,Transport,Fuel,434.23,USD,Credit Card,Amazon,London,Checking,2000,492.43,5000,Completed,Sample record
+PF000230,2025-09-25,Expense,Shopping,Clothing,180.11,USD,Digital Wallet,Uber,Sydney,Credit,2000,734.32,5000,Completed,Sample record
+PF000231,2025-02-04,Expense,Bills,Internet,380.73,USD,Bank Transfer,Employer,London,Savings,2000,537.98,5000,Completed,Sample record
+PF000232,2025-02-08,Expense,Bills,Utilities,148.02,USD,Digital Wallet,Local Store,Sydney,Checking,2000,1481.37,5000,Pending,Sample record
+PF000233,2025-10-08,Income,Salary,Monthly,345.42,USD,Credit Card,Walmart,New York,Credit,2000,339.45,5000,Pending,Sample record
+PF000234,2025-06-18,Expense,Transport,Taxi,273.18,USD,Credit Card,Local Store,Lahore,Savings,2000,924.15,5000,Completed,Sample record
+PF000235,2025-05-12,Income,Salary,Monthly,91.12,USD,Debit Card,Employer,New York,Credit,2000,419.39,5000,Pending,Sample record
+PF000236,2025-06-17,Income,Salary,Monthly,479.04,USD,Bank Transfer,Local Store,Toronto,Savings,2000,1012.06,5000,Completed,Sample record
+PF000237,2025-08-20,Income,Salary,Monthly,464.99,USD,Digital Wallet,Employer,Lahore,Savings,2000,730.2,5000,Pending,Sample record
+PF000238,2025-11-18,Expense,Transport,Fuel,424.84,USD,Bank Transfer,Employer,London,Checking,2000,1049.64,5000,Completed,Sample record
+PF000239,2025-12-07,Expense,Transport,Fuel,197.31,USD,Digital Wallet,Uber,Toronto,Credit,2000,295.3,5000,Completed,Sample record
+PF000240,2025-04-18,Expense,Shopping,Electronics,83.12,USD,Credit Card,Employer,Lahore,Checking,2000,482.91,5000,Pending,Sample record
+PF000241,2025-07-26,Expense,Food,Restaurant,248.79,USD,Bank Transfer,Employer,London,Credit,2000,1572.07,5000,Pending,Sample record
+PF000242,2025-01-06,Income,Salary,Monthly,23.31,USD,Debit Card,Walmart,Sydney,Savings,2000,1734.6,5000,Completed,Sample record
+PF000243,2025-12-14,Expense,Food,Groceries,367.17,USD,Debit Card,Walmart,Toronto,Checking,2000,1453.3,5000,Pending,Sample record
+PF000244,2025-03-08,Expense,Transport,Taxi,86.29,USD,Bank Transfer,Uber,London,Savings,2000,306.93,5000,Pending,Sample record
+PF000245,2025-05-13,Expense,Shopping,Clothing,275.03,USD,Credit Card,Employer,London,Checking,2000,1061.72,5000,Completed,Sample record
+PF000246,2025-09-24,Income,Salary,Monthly,408.83,USD,Cash,Walmart,Lahore,Credit,2000,255.74,5000,Completed,Sample record
+PF000247,2025-12-02,Income,Salary,Monthly,73.85,USD,Cash,Walmart,New York,Savings,2000,1298.79,5000,Completed,Sample record
+PF000248,2025-02-25,Expense,Food,Groceries,212.08,USD,Credit Card,Uber,Sydney,Savings,2000,1595.8,5000,Completed,Sample record
+PF000249,2025-09-14,Expense,Food,Restaurant,228.05,USD,Bank Transfer,Local Store,New York,Credit,2000,877.79,5000,Completed,Sample record
+PF000250,2025-04-13,Income,Salary,Monthly,385.46,USD,Debit Card,Local Store,Lahore,Savings,2000,1599.13,5000,Completed,Sample record
+PF000251,2025-11-08,Expense,Bills,Internet,279.95,USD,Cash,Walmart,London,Savings,2000,1475.83,5000,Pending,Sample record
+PF000252,2025-04-14,Expense,Shopping,Clothing,166.15,USD,Cash,Employer,New York,Savings,2000,1677.64,5000,Pending,Sample record
+PF000253,2025-03-12,Income,Salary,Monthly,247.18,USD,Cash,Local Store,Sydney,Checking,2000,1215.69,5000,Pending,Sample record
+PF000254,2025-01-14,Expense,Shopping,Clothing,459.18,USD,Bank Transfer,Amazon,Sydney,Checking,2000,1661.2,5000,Pending,Sample record
+PF000255,2025-04-22,Income,Salary,Monthly,25.56,USD,Bank Transfer,Walmart,New York,Credit,2000,1272.38,5000,Pending,Sample record
+PF000256,2025-07-01,Expense,Shopping,Electronics,160.01,USD,Debit Card,Uber,Lahore,Checking,2000,1799.15,5000,Completed,Sample record
+PF000257,2025-07-17,Expense,Shopping,Electronics,395.34,USD,Cash,Amazon,Sydney,Checking,2000,819.75,5000,Completed,Sample record
+PF000258,2025-12-07,Expense,Shopping,Clothing,457.81,USD,Digital Wallet,Walmart,Toronto,Savings,2000,1230.79,5000,Pending,Sample record
+PF000259,2025-12-08,Expense,Food,Restaurant,292.61,USD,Credit Card,Uber,Sydney,Savings,2000,776.47,5000,Completed,Sample record
+PF000260,2025-12-13,Income,Salary,Monthly,144.76,USD,Cash,Uber,New York,Checking,2000,324.85,5000,Pending,Sample record
+PF000261,2025-02-27,Expense,Transport,Taxi,150.85,USD,Digital Wallet,Walmart,Lahore,Savings,2000,616.91,5000,Pending,Sample record
+PF000262,2025-09-17,Expense,Food,Groceries,205.52,USD,Digital Wallet,Uber,Toronto,Savings,2000,1530.99,5000,Completed,Sample record
+PF000263,2025-04-23,Expense,Bills,Internet,178.01,USD,Debit Card,Uber,Sydney,Credit,2000,425.48,5000,Pending,Sample record
+PF000264,2025-09-26,Expense,Bills,Utilities,155.41,USD,Credit Card,Employer,Toronto,Credit,2000,877.53,5000,Completed,Sample record
+PF000265,2025-03-02,Expense,Bills,Utilities,493.94,USD,Credit Card,Walmart,New York,Credit,2000,760.29,5000,Completed,Sample record
+PF000266,2025-12-11,Expense,Transport,Fuel,131.28,USD,Cash,Local Store,London,Credit,2000,650.78,5000,Pending,Sample record
+PF000267,2025-05-02,Expense,Transport,Taxi,33.77,USD,Bank Transfer,Employer,Sydney,Savings,2000,575.19,5000,Completed,Sample record
+PF000268,2025-08-14,Expense,Bills,Utilities,6.16,USD,Cash,Amazon,Toronto,Credit,2000,1169.61,5000,Pending,Sample record
+PF000269,2025-09-08,Expense,Transport,Taxi,60.57,USD,Debit Card,Amazon,Lahore,Savings,2000,1531.51,5000,Completed,Sample record
+PF000270,2025-01-25,Income,Salary,Monthly,214.34,USD,Credit Card,Employer,New York,Checking,2000,208.98,5000,Completed,Sample record
+PF000271,2025-09-23,Expense,Transport,Taxi,192.85,USD,Credit Card,Local Store,London,Savings,2000,1596.54,5000,Pending,Sample record
+PF000272,2025-11-21,Expense,Bills,Utilities,118.11,USD,Cash,Local Store,London,Savings,2000,1145.4,5000,Pending,Sample record
+PF000273,2025-11-21,Expense,Bills,Utilities,269.73,USD,Cash,Uber,Toronto,Credit,2000,830.88,5000,Pending,Sample record
+PF000274,2025-03-17,Expense,Food,Groceries,110.71,USD,Debit Card,Amazon,London,Checking,2000,1248.98,5000,Pending,Sample record
+PF000275,2025-04-12,Expense,Transport,Taxi,117.49,USD,Bank Transfer,Local Store,New York,Savings,2000,465.19,5000,Completed,Sample record
+PF000276,2025-04-11,Expense,Transport,Fuel,271.91,USD,Debit Card,Uber,Sydney,Credit,2000,1744.8,5000,Completed,Sample record
+PF000277,2025-08-21,Income,Salary,Monthly,199.32,USD,Digital Wallet,Amazon,London,Credit,2000,203.07,5000,Completed,Sample record
+PF000278,2025-08-01,Expense,Shopping,Electronics,337.18,USD,Digital Wallet,Walmart,London,Credit,2000,1521.75,5000,Completed,Sample record
+PF000279,2025-11-12,Expense,Transport,Taxi,199.46,USD,Credit Card,Employer,Lahore,Savings,2000,470.6,5000,Completed,Sample record
+PF000280,2025-11-18,Expense,Bills,Utilities,397.71,USD,Bank Transfer,Walmart,Lahore,Credit,2000,432.61,5000,Pending,Sample record
+PF000281,2025-03-10,Expense,Shopping,Electronics,421.0,USD,Cash,Amazon,New York,Checking,2000,1401.73,5000,Pending,Sample record
+PF000282,2025-06-26,Expense,Bills,Internet,316.1,USD,Credit Card,Local Store,Sydney,Credit,2000,350.47,5000,Pending,Sample record
+PF000283,2025-10-02,Expense,Food,Groceries,389.81,USD,Cash,Walmart,New York,Savings,2000,631.15,5000,Pending,Sample record
+PF000284,2025-04-10,Expense,Shopping,Clothing,337.87,USD,Bank Transfer,Local Store,Lahore,Savings,2000,1299.28,5000,Completed,Sample record
+PF000285,2025-06-22,Expense,Shopping,Electronics,203.29,USD,Bank Transfer,Amazon,Sydney,Savings,2000,1725.76,5000,Pending,Sample record
+PF000286,2025-07-12,Expense,Food,Restaurant,18.84,USD,Debit Card,Local Store,Sydney,Savings,2000,1459.93,5000,Completed,Sample record
+PF000287,2025-04-15,Expense,Transport,Fuel,146.25,USD,Credit Card,Amazon,Lahore,Savings,2000,647.11,5000,Pending,Sample record
+PF000288,2025-04-27,Expense,Shopping,Electronics,42.48,USD,Cash,Walmart,Toronto,Checking,2000,1762.62,5000,Pending,Sample record
+PF000289,2025-08-07,Expense,Food,Restaurant,444.11,USD,Credit Card,Local Store,Lahore,Savings,2000,979.44,5000,Pending,Sample record
+PF000290,2025-07-07,Expense,Bills,Utilities,86.06,USD,Credit Card,Walmart,New York,Credit,2000,1732.46,5000,Pending,Sample record
+PF000291,2025-09-11,Income,Salary,Monthly,443.56,USD,Debit Card,Uber,New York,Checking,2000,300.77,5000,Completed,Sample record
+PF000292,2025-05-21,Income,Salary,Monthly,469.75,USD,Bank Transfer,Employer,Sydney,Savings,2000,289.08,5000,Pending,Sample record
+PF000293,2025-11-05,Income,Salary,Monthly,333.3,USD,Digital Wallet,Employer,Sydney,Credit,2000,256.02,5000,Pending,Sample record
+PF000294,2025-08-22,Expense,Transport,Fuel,223.12,USD,Bank Transfer,Uber,Lahore,Credit,2000,689.79,5000,Pending,Sample record
+PF000295,2025-11-17,Expense,Food,Groceries,207.44,USD,Digital Wallet,Local Store,Lahore,Checking,2000,565.59,5000,Pending,Sample record
+PF000296,2025-08-06,Expense,Bills,Internet,22.56,USD,Bank Transfer,Employer,New York,Credit,2000,593.69,5000,Completed,Sample record
+PF000297,2025-01-21,Expense,Food,Groceries,246.91,USD,Credit Card,Local Store,Toronto,Savings,2000,899.35,5000,Completed,Sample record
+PF000298,2025-10-01,Expense,Bills,Internet,277.42,USD,Debit Card,Local Store,Lahore,Credit,2000,1453.8,5000,Pending,Sample record
+PF000299,2025-11-21,Income,Salary,Monthly,100.61,USD,Cash,Uber,Sydney,Checking,2000,948.24,5000,Pending,Sample record
+PF000300,2025-05-21,Expense,Shopping,Electronics,183.99,USD,Cash,Uber,Sydney,Credit,2000,433.39,5000,Pending,Sample record
+PF000301,2025-07-25,Income,Salary,Monthly,387.99,USD,Digital Wallet,Uber,London,Checking,2000,1757.47,5000,Pending,Sample record
+PF000302,2025-08-20,Expense,Bills,Utilities,259.33,USD,Digital Wallet,Walmart,London,Credit,2000,1612.94,5000,Pending,Sample record
+PF000303,2025-11-13,Expense,Transport,Fuel,499.7,USD,Cash,Employer,Sydney,Credit,2000,863.31,5000,Completed,Sample record
+PF000304,2025-09-13,Expense,Food,Groceries,261.88,USD,Cash,Uber,Sydney,Checking,2000,1719.31,5000,Completed,Sample record
+PF000305,2025-05-09,Income,Salary,Monthly,60.0,USD,Bank Transfer,Uber,Toronto,Credit,2000,338.6,5000,Pending,Sample record
+PF000306,2025-11-12,Expense,Food,Groceries,167.65,USD,Cash,Uber,London,Credit,2000,1381.27,5000,Completed,Sample record
+PF000307,2025-10-06,Expense,Bills,Utilities,132.79,USD,Debit Card,Employer,New York,Credit,2000,979.77,5000,Completed,Sample record
+PF000308,2025-08-01,Income,Salary,Monthly,44.12,USD,Credit Card,Employer,Lahore,Checking,2000,1431.95,5000,Pending,Sample record
+PF000309,2025-10-04,Expense,Food,Restaurant,56.2,USD,Bank Transfer,Uber,Toronto,Checking,2000,673.25,5000,Completed,Sample record
+PF000310,2025-10-03,Expense,Shopping,Electronics,461.88,USD,Debit Card,Local Store,Toronto,Savings,2000,1171.97,5000,Completed,Sample record
+PF000311,2025-03-17,Expense,Food,Restaurant,490.9,USD,Debit Card,Employer,Lahore,Credit,2000,1455.56,5000,Completed,Sample record
+PF000312,2025-12-18,Expense,Transport,Fuel,415.54,USD,Credit Card,Uber,Toronto,Checking,2000,1556.34,5000,Pending,Sample record
+PF000313,2025-06-14,Expense,Shopping,Electronics,418.62,USD,Bank Transfer,Local Store,New York,Credit,2000,797.26,5000,Pending,Sample record
+PF000314,2025-10-07,Expense,Transport,Fuel,11.68,USD,Cash,Uber,Toronto,Checking,2000,995.45,5000,Pending,Sample record
+PF000315,2025-05-25,Expense,Food,Groceries,85.14,USD,Bank Transfer,Local Store,New York,Credit,2000,464.37,5000,Pending,Sample record
+PF000316,2025-08-14,Expense,Bills,Internet,27.88,USD,Cash,Local Store,London,Savings,2000,1189.64,5000,Completed,Sample record
+PF000317,2025-06-09,Income,Salary,Monthly,202.24,USD,Bank Transfer,Local Store,Sydney,Savings,2000,778.08,5000,Completed,Sample record
+PF000318,2025-02-22,Expense,Shopping,Electronics,317.21,USD,Bank Transfer,Amazon,Toronto,Savings,2000,1655.16,5000,Completed,Sample record
+PF000319,2025-02-19,Expense,Food,Restaurant,79.26,USD,Credit Card,Uber,Toronto,Savings,2000,1446.83,5000,Pending,Sample record
+PF000320,2025-11-20,Expense,Shopping,Electronics,57.93,USD,Debit Card,Amazon,Sydney,Checking,2000,664.18,5000,Completed,Sample record
+PF000321,2025-01-16,Expense,Shopping,Electronics,290.24,USD,Digital Wallet,Local Store,Sydney,Savings,2000,864.77,5000,Completed,Sample record
+PF000322,2025-12-04,Expense,Bills,Internet,260.34,USD,Debit Card,Uber,Toronto,Savings,2000,681.75,5000,Completed,Sample record
+PF000323,2025-06-22,Expense,Transport,Taxi,126.48,USD,Digital Wallet,Walmart,Lahore,Checking,2000,1634.22,5000,Pending,Sample record
+PF000324,2025-08-21,Expense,Transport,Fuel,445.61,USD,Cash,Walmart,New York,Credit,2000,559.41,5000,Pending,Sample record
+PF000325,2025-01-09,Income,Salary,Monthly,29.99,USD,Bank Transfer,Walmart,London,Checking,2000,304.26,5000,Pending,Sample record
+PF000326,2025-04-23,Expense,Shopping,Clothing,80.79,USD,Bank Transfer,Amazon,London,Checking,2000,635.14,5000,Completed,Sample record
+PF000327,2025-11-21,Expense,Transport,Fuel,154.28,USD,Bank Transfer,Uber,Toronto,Checking,2000,1269.35,5000,Completed,Sample record
+PF000328,2025-11-09,Expense,Transport,Fuel,137.01,USD,Digital Wallet,Walmart,Toronto,Credit,2000,603.55,5000,Completed,Sample record
+PF000329,2025-08-28,Expense,Food,Restaurant,31.1,USD,Cash,Walmart,New York,Checking,2000,1594.9,5000,Completed,Sample record
+PF000330,2025-04-11,Expense,Bills,Utilities,287.04,USD,Credit Card,Walmart,Sydney,Credit,2000,541.82,5000,Pending,Sample record
+PF000331,2025-01-18,Expense,Shopping,Clothing,113.81,USD,Bank Transfer,Walmart,New York,Checking,2000,788.47,5000,Completed,Sample record
+PF000332,2025-03-04,Expense,Shopping,Electronics,98.87,USD,Debit Card,Uber,London,Savings,2000,1135.39,5000,Pending,Sample record
+PF000333,2025-03-03,Expense,Shopping,Electronics,433.67,USD,Bank Transfer,Amazon,London,Savings,2000,1075.28,5000,Pending,Sample record
+PF000334,2025-06-18,Expense,Food,Groceries,147.23,USD,Credit Card,Walmart,Lahore,Checking,2000,371.01,5000,Pending,Sample record
+PF000335,2025-11-08,Expense,Bills,Internet,468.9,USD,Bank Transfer,Local Store,London,Savings,2000,902.71,5000,Pending,Sample record
+PF000336,2025-12-22,Expense,Bills,Utilities,11.33,USD,Cash,Amazon,London,Savings,2000,1407.85,5000,Completed,Sample record
+PF000337,2025-03-26,Expense,Bills,Utilities,245.18,USD,Credit Card,Amazon,Lahore,Credit,2000,1290.96,5000,Completed,Sample record
+PF000338,2025-09-24,Income,Salary,Monthly,121.95,USD,Bank Transfer,Amazon,London,Savings,2000,1071.57,5000,Completed,Sample record
+PF000339,2025-04-12,Income,Salary,Monthly,424.94,USD,Cash,Local Store,Lahore,Checking,2000,600.16,5000,Completed,Sample record
+PF000340,2025-08-26,Expense,Shopping,Clothing,50.3,USD,Credit Card,Uber,Lahore,Savings,2000,1214.67,5000,Pending,Sample record
+PF000341,2025-04-21,Expense,Shopping,Clothing,137.76,USD,Digital Wallet,Local Store,London,Savings,2000,1688.9,5000,Pending,Sample record
+PF000342,2025-10-14,Expense,Transport,Fuel,90.48,USD,Digital Wallet,Local Store,Toronto,Checking,2000,922.6,5000,Pending,Sample record
+PF000343,2025-04-16,Expense,Bills,Utilities,81.72,USD,Debit Card,Local Store,Toronto,Savings,2000,1134.25,5000,Pending,Sample record
+PF000344,2025-01-21,Income,Salary,Monthly,76.87,USD,Cash,Uber,Lahore,Checking,2000,654.88,5000,Completed,Sample record
+PF000345,2025-03-26,Expense,Transport,Taxi,312.37,USD,Bank Transfer,Uber,Toronto,Savings,2000,579.51,5000,Completed,Sample record
+PF000346,2025-12-06,Expense,Food,Restaurant,50.55,USD,Credit Card,Walmart,New York,Checking,2000,571.45,5000,Pending,Sample record
+PF000347,2025-10-09,Expense,Transport,Taxi,389.11,USD,Cash,Local Store,London,Checking,2000,1442.44,5000,Pending,Sample record
+PF000348,2025-06-11,Expense,Food,Groceries,386.84,USD,Cash,Employer,Sydney,Credit,2000,502.94,5000,Completed,Sample record
+PF000349,2025-03-14,Expense,Shopping,Clothing,298.96,USD,Debit Card,Employer,Toronto,Checking,2000,1363.75,5000,Pending,Sample record
+PF000350,2025-04-10,Expense,Bills,Internet,416.89,USD,Bank Transfer,Employer,Sydney,Credit,2000,1043.04,5000,Pending,Sample record
+PF000351,2025-09-17,Expense,Bills,Utilities,163.63,USD,Bank Transfer,Uber,New York,Savings,2000,1547.93,5000,Completed,Sample record
+PF000352,2025-07-17,Expense,Transport,Taxi,426.41,USD,Digital Wallet,Employer,Sydney,Savings,2000,526.08,5000,Completed,Sample record
+PF000353,2025-03-28,Expense,Bills,Utilities,169.68,USD,Digital Wallet,Local Store,New York,Checking,2000,1341.84,5000,Pending,Sample record
+PF000354,2025-05-27,Income,Salary,Monthly,82.96,USD,Digital Wallet,Walmart,Lahore,Savings,2000,262.82,5000,Completed,Sample record
+PF000355,2025-03-26,Expense,Bills,Internet,284.43,USD,Debit Card,Employer,Toronto,Savings,2000,265.32,5000,Pending,Sample record
+PF000356,2025-09-02,Income,Salary,Monthly,178.91,USD,Debit Card,Amazon,New York,Checking,2000,1512.4,5000,Pending,Sample record
+PF000357,2025-03-20,Expense,Transport,Fuel,482.79,USD,Digital Wallet,Employer,Toronto,Checking,2000,962.3,5000,Completed,Sample record
+PF000358,2025-11-14,Income,Salary,Monthly,289.15,USD,Debit Card,Employer,New York,Checking,2000,557.64,5000,Pending,Sample record
+PF000359,2025-04-24,Expense,Food,Restaurant,490.79,USD,Credit Card,Local Store,London,Credit,2000,788.3,5000,Completed,Sample record
+PF000360,2025-11-09,Expense,Transport,Fuel,409.53,USD,Digital Wallet,Local Store,New York,Checking,2000,854.4,5000,Completed,Sample record
+PF000361,2025-08-14,Expense,Food,Restaurant,485.6,USD,Digital Wallet,Uber,Toronto,Checking,2000,432.98,5000,Pending,Sample record
+PF000362,2025-03-15,Expense,Food,Restaurant,240.56,USD,Credit Card,Employer,London,Savings,2000,1448.17,5000,Pending,Sample record
+PF000363,2025-12-08,Expense,Food,Restaurant,220.8,USD,Digital Wallet,Walmart,Toronto,Savings,2000,1455.29,5000,Pending,Sample record
+PF000364,2025-05-08,Expense,Bills,Utilities,226.62,USD,Bank Transfer,Walmart,Lahore,Savings,2000,672.89,5000,Pending,Sample record
+PF000365,2025-03-09,Expense,Shopping,Electronics,275.45,USD,Digital Wallet,Uber,New York,Credit,2000,875.99,5000,Completed,Sample record
+PF000366,2025-06-03,Expense,Shopping,Clothing,73.45,USD,Credit Card,Uber,Sydney,Checking,2000,1779.27,5000,Completed,Sample record
+PF000367,2025-07-25,Income,Salary,Monthly,234.98,USD,Debit Card,Uber,Toronto,Credit,2000,991.06,5000,Completed,Sample record
+PF000368,2025-03-09,Expense,Shopping,Clothing,130.72,USD,Digital Wallet,Uber,London,Savings,2000,1484.15,5000,Completed,Sample record
+PF000369,2025-10-01,Expense,Shopping,Clothing,477.04,USD,Credit Card,Local Store,Toronto,Checking,2000,522.59,5000,Pending,Sample record
+PF000370,2025-04-07,Expense,Transport,Taxi,471.94,USD,Debit Card,Amazon,London,Savings,2000,797.38,5000,Pending,Sample record
+PF000371,2025-04-12,Expense,Shopping,Clothing,418.93,USD,Debit Card,Employer,New York,Credit,2000,1739.31,5000,Completed,Sample record
+PF000372,2025-08-19,Expense,Transport,Taxi,77.31,USD,Digital Wallet,Walmart,Sydney,Credit,2000,1112.21,5000,Completed,Sample record
+PF000373,2025-02-19,Expense,Bills,Utilities,443.4,USD,Cash,Uber,Toronto,Checking,2000,485.68,5000,Completed,Sample record
+PF000374,2025-08-07,Expense,Food,Groceries,69.81,USD,Credit Card,Local Store,Lahore,Checking,2000,532.5,5000,Pending,Sample record
+PF000375,2025-09-24,Expense,Transport,Taxi,240.39,USD,Debit Card,Uber,Toronto,Savings,2000,807.46,5000,Pending,Sample record
+PF000376,2025-12-12,Expense,Transport,Fuel,342.71,USD,Digital Wallet,Employer,New York,Savings,2000,1418.7,5000,Pending,Sample record
+PF000377,2025-02-08,Expense,Food,Restaurant,13.03,USD,Cash,Employer,London,Savings,2000,852.77,5000,Pending,Sample record
+PF000378,2025-09-07,Expense,Transport,Taxi,169.77,USD,Credit Card,Walmart,Lahore,Checking,2000,1048.84,5000,Pending,Sample record
+PF000379,2025-02-07,Income,Salary,Monthly,431.27,USD,Debit Card,Local Store,Toronto,Savings,2000,1124.65,5000,Pending,Sample record
+PF000380,2025-03-24,Expense,Food,Restaurant,284.05,USD,Digital Wallet,Local Store,Sydney,Credit,2000,370.63,5000,Completed,Sample record
+PF000381,2025-03-14,Expense,Shopping,Electronics,104.72,USD,Digital Wallet,Employer,Lahore,Credit,2000,1271.8,5000,Pending,Sample record
+PF000382,2025-09-23,Expense,Shopping,Electronics,84.85,USD,Debit Card,Uber,London,Savings,2000,948.72,5000,Completed,Sample record
+PF000383,2025-02-11,Income,Salary,Monthly,71.74,USD,Cash,Uber,New York,Credit,2000,349.69,5000,Pending,Sample record
+PF000384,2025-04-21,Expense,Food,Restaurant,401.59,USD,Credit Card,Uber,London,Checking,2000,1110.37,5000,Pending,Sample record
+PF000385,2025-06-26,Expense,Transport,Fuel,229.61,USD,Cash,Amazon,New York,Credit,2000,850.13,5000,Pending,Sample record
+PF000386,2025-04-02,Expense,Bills,Utilities,148.34,USD,Debit Card,Local Store,Toronto,Checking,2000,735.06,5000,Completed,Sample record
+PF000387,2025-06-04,Income,Salary,Monthly,17.3,USD,Debit Card,Amazon,London,Savings,2000,389.53,5000,Completed,Sample record
+PF000388,2025-10-05,Expense,Shopping,Electronics,477.78,USD,Credit Card,Amazon,Sydney,Checking,2000,1274.8,5000,Pending,Sample record
+PF000389,2025-05-15,Expense,Bills,Utilities,479.46,USD,Credit Card,Uber,New York,Checking,2000,630.45,5000,Pending,Sample record
+PF000390,2025-09-18,Expense,Food,Groceries,273.62,USD,Bank Transfer,Uber,London,Credit,2000,606.28,5000,Completed,Sample record
+PF000391,2025-10-04,Expense,Shopping,Electronics,243.77,USD,Debit Card,Local Store,Sydney,Savings,2000,1222.02,5000,Completed,Sample record
+PF000392,2025-08-08,Expense,Food,Groceries,212.19,USD,Bank Transfer,Local Store,Sydney,Checking,2000,1493.35,5000,Pending,Sample record
+PF000393,2025-06-12,Expense,Food,Restaurant,482.69,USD,Bank Transfer,Local Store,Toronto,Savings,2000,897.34,5000,Completed,Sample record
+PF000394,2025-04-16,Income,Salary,Monthly,66.03,USD,Credit Card,Amazon,Lahore,Checking,2000,1237.1,5000,Pending,Sample record
+PF000395,2025-02-25,Expense,Bills,Internet,283.1,USD,Cash,Amazon,Toronto,Checking,2000,297.65,5000,Completed,Sample record
+PF000396,2025-04-19,Income,Salary,Monthly,347.57,USD,Bank Transfer,Employer,Lahore,Checking,2000,1064.78,5000,Pending,Sample record
+PF000397,2025-04-06,Expense,Shopping,Electronics,59.56,USD,Bank Transfer,Employer,Toronto,Credit,2000,1736.07,5000,Completed,Sample record
+PF000398,2025-09-22,Expense,Food,Restaurant,7.68,USD,Credit Card,Uber,New York,Savings,2000,547.39,5000,Pending,Sample record
+PF000399,2025-09-24,Expense,Bills,Utilities,422.71,USD,Bank Transfer,Amazon,Sydney,Checking,2000,1515.34,5000,Pending,Sample record
+PF000400,2025-07-20,Expense,Transport,Fuel,191.9,USD,Digital Wallet,Employer,London,Savings,2000,1566.16,5000,Pending,Sample record
+PF000401,2025-01-07,Expense,Bills,Internet,320.16,USD,Digital Wallet,Employer,Toronto,Credit,2000,1723.87,5000,Completed,Sample record
+PF000402,2025-09-03,Expense,Bills,Utilities,389.92,USD,Cash,Employer,New York,Savings,2000,1465.47,5000,Completed,Sample record
+PF000403,2025-06-05,Expense,Food,Restaurant,136.53,USD,Credit Card,Uber,London,Checking,2000,329.73,5000,Pending,Sample record
+PF000404,2025-03-08,Expense,Bills,Utilities,90.57,USD,Bank Transfer,Walmart,London,Savings,2000,1491.58,5000,Pending,Sample record
+PF000405,2025-07-15,Expense,Shopping,Electronics,277.33,USD,Digital Wallet,Employer,Lahore,Checking,2000,1438.16,5000,Pending,Sample record
+PF000406,2025-11-03,Expense,Shopping,Electronics,143.04,USD,Cash,Amazon,Lahore,Savings,2000,1437.17,5000,Pending,Sample record
+PF000407,2025-10-02,Expense,Transport,Fuel,238.54,USD,Digital Wallet,Employer,London,Checking,2000,505.18,5000,Completed,Sample record
+PF000408,2025-07-05,Expense,Transport,Taxi,425.99,USD,Credit Card,Employer,Lahore,Checking,2000,1756.71,5000,Completed,Sample record
+PF000409,2025-08-20,Expense,Food,Groceries,121.33,USD,Cash,Amazon,New York,Credit,2000,1016.05,5000,Pending,Sample record
+PF000410,2025-01-17,Expense,Food,Restaurant,12.89,USD,Digital Wallet,Local Store,Lahore,Credit,2000,690.63,5000,Completed,Sample record
+PF000411,2025-12-03,Expense,Transport,Taxi,47.11,USD,Credit Card,Uber,New York,Checking,2000,662.09,5000,Pending,Sample record
+PF000412,2025-10-23,Income,Salary,Monthly,468.67,USD,Cash,Walmart,London,Credit,2000,1514.29,5000,Completed,Sample record
+PF000413,2025-04-13,Expense,Shopping,Electronics,164.81,USD,Credit Card,Uber,Toronto,Credit,2000,1420.77,5000,Pending,Sample record
+PF000414,2025-11-16,Expense,Food,Groceries,25.09,USD,Cash,Local Store,Sydney,Checking,2000,1307.2,5000,Pending,Sample record
+PF000415,2025-11-04,Income,Salary,Monthly,376.09,USD,Cash,Employer,Sydney,Checking,2000,1310.47,5000,Pending,Sample record
+PF000416,2025-01-02,Expense,Transport,Taxi,237.05,USD,Digital Wallet,Amazon,Toronto,Checking,2000,1627.17,5000,Completed,Sample record
+PF000417,2025-07-08,Expense,Shopping,Electronics,485.73,USD,Cash,Amazon,Toronto,Savings,2000,806.49,5000,Completed,Sample record
+PF000418,2025-07-20,Expense,Bills,Internet,161.95,USD,Bank Transfer,Employer,Lahore,Savings,2000,1565.18,5000,Completed,Sample record
+PF000419,2025-01-26,Expense,Bills,Utilities,495.01,USD,Cash,Walmart,Sydney,Savings,2000,1784.45,5000,Pending,Sample record
+PF000420,2025-08-19,Expense,Transport,Taxi,433.87,USD,Credit Card,Amazon,Sydney,Checking,2000,1487.59,5000,Completed,Sample record
+PF000421,2025-01-21,Income,Salary,Monthly,148.62,USD,Bank Transfer,Uber,Lahore,Credit,2000,637.45,5000,Pending,Sample record
+PF000422,2025-05-24,Expense,Shopping,Clothing,465.84,USD,Debit Card,Amazon,Toronto,Checking,2000,513.63,5000,Pending,Sample record
+PF000423,2025-06-27,Expense,Food,Restaurant,401.99,USD,Cash,Walmart,New York,Savings,2000,1079.8,5000,Completed,Sample record
+PF000424,2025-12-19,Expense,Shopping,Electronics,225.21,USD,Cash,Uber,Toronto,Credit,2000,1717.53,5000,Pending,Sample record
+PF000425,2025-03-14,Expense,Transport,Taxi,16.14,USD,Credit Card,Local Store,Lahore,Checking,2000,1592.99,5000,Completed,Sample record
+PF000426,2025-01-04,Expense,Food,Restaurant,366.1,USD,Debit Card,Walmart,London,Savings,2000,969.3,5000,Pending,Sample record
+PF000427,2025-10-05,Expense,Transport,Fuel,286.01,USD,Credit Card,Uber,Toronto,Savings,2000,1340.67,5000,Pending,Sample record
+PF000428,2025-10-07,Expense,Food,Restaurant,221.59,USD,Cash,Uber,New York,Savings,2000,1403.04,5000,Completed,Sample record
+PF000429,2025-08-28,Expense,Transport,Fuel,334.94,USD,Debit Card,Employer,Sydney,Credit,2000,1060.22,5000,Pending,Sample record
+PF000430,2025-11-05,Expense,Food,Restaurant,324.2,USD,Debit Card,Amazon,Toronto,Checking,2000,1557.22,5000,Completed,Sample record
+PF000431,2025-07-11,Expense,Shopping,Clothing,424.23,USD,Cash,Local Store,Toronto,Credit,2000,1444.99,5000,Pending,Sample record
+PF000432,2025-02-15,Expense,Shopping,Electronics,262.33,USD,Bank Transfer,Uber,New York,Savings,2000,805.34,5000,Completed,Sample record
+PF000433,2025-01-15,Expense,Transport,Fuel,210.2,USD,Credit Card,Walmart,Sydney,Credit,2000,1108.42,5000,Completed,Sample record
+PF000434,2025-07-03,Expense,Transport,Taxi,34.64,USD,Credit Card,Employer,New York,Credit,2000,1250.86,5000,Completed,Sample record
+PF000435,2025-01-09,Expense,Bills,Utilities,12.58,USD,Credit Card,Walmart,New York,Credit,2000,497.82,5000,Completed,Sample record
+PF000436,2025-04-15,Expense,Food,Groceries,58.1,USD,Cash,Uber,Toronto,Checking,2000,1312.8,5000,Pending,Sample record
+PF000437,2025-10-04,Income,Salary,Monthly,486.23,USD,Bank Transfer,Amazon,Toronto,Savings,2000,1772.49,5000,Pending,Sample record
+PF000438,2025-01-06,Income,Salary,Monthly,325.61,USD,Credit Card,Walmart,Sydney,Checking,2000,1003.16,5000,Completed,Sample record
+PF000439,2025-03-28,Expense,Food,Groceries,344.93,USD,Cash,Employer,Lahore,Savings,2000,943.26,5000,Pending,Sample record
+PF000440,2025-06-14,Income,Salary,Monthly,293.32,USD,Digital Wallet,Uber,Lahore,Savings,2000,313.71,5000,Completed,Sample record
+PF000441,2025-04-13,Expense,Bills,Internet,280.89,USD,Bank Transfer,Employer,Toronto,Credit,2000,1655.87,5000,Pending,Sample record
+PF000442,2025-02-19,Expense,Shopping,Clothing,148.07,USD,Bank Transfer,Employer,New York,Checking,2000,1583.72,5000,Completed,Sample record
+PF000443,2025-12-15,Expense,Food,Groceries,32.89,USD,Digital Wallet,Uber,Toronto,Credit,2000,1672.23,5000,Pending,Sample record
+PF000444,2025-05-16,Expense,Food,Groceries,37.96,USD,Bank Transfer,Walmart,Sydney,Credit,2000,1706.15,5000,Pending,Sample record
+PF000445,2025-03-11,Income,Salary,Monthly,389.45,USD,Debit Card,Employer,Sydney,Credit,2000,1681.63,5000,Pending,Sample record
+PF000446,2025-10-01,Income,Salary,Monthly,417.31,USD,Debit Card,Uber,Lahore,Savings,2000,980.22,5000,Pending,Sample record
+PF000447,2025-03-11,Income,Salary,Monthly,334.79,USD,Credit Card,Uber,London,Credit,2000,1630.37,5000,Pending,Sample record
+PF000448,2025-09-08,Expense,Transport,Fuel,170.57,USD,Debit Card,Walmart,Toronto,Checking,2000,841.93,5000,Completed,Sample record
+PF000449,2025-11-01,Expense,Transport,Fuel,349.59,USD,Debit Card,Walmart,New York,Checking,2000,621.82,5000,Pending,Sample record
+PF000450,2025-02-06,Expense,Bills,Internet,140.3,USD,Credit Card,Local Store,Lahore,Savings,2000,591.23,5000,Completed,Sample record
+PF000451,2025-10-20,Expense,Shopping,Electronics,173.12,USD,Cash,Amazon,New York,Savings,2000,379.94,5000,Completed,Sample record
+PF000452,2025-11-26,Expense,Shopping,Clothing,382.45,USD,Bank Transfer,Uber,New York,Savings,2000,1528.82,5000,Completed,Sample record
+PF000453,2025-03-13,Expense,Bills,Utilities,214.82,USD,Debit Card,Walmart,Lahore,Credit,2000,303.41,5000,Completed,Sample record
+PF000454,2025-04-26,Expense,Food,Groceries,5.81,USD,Bank Transfer,Walmart,Lahore,Savings,2000,1373.97,5000,Pending,Sample record
+PF000455,2025-10-14,Expense,Transport,Taxi,35.2,USD,Credit Card,Employer,Toronto,Credit,2000,1196.59,5000,Pending,Sample record
+PF000456,2025-06-06,Expense,Bills,Internet,170.31,USD,Digital Wallet,Walmart,New York,Credit,2000,789.05,5000,Pending,Sample record
+PF000457,2025-01-17,Expense,Shopping,Electronics,448.75,USD,Bank Transfer,Local Store,Sydney,Checking,2000,797.43,5000,Pending,Sample record
+PF000458,2025-03-04,Expense,Bills,Utilities,306.19,USD,Bank Transfer,Walmart,New York,Checking,2000,402.12,5000,Completed,Sample record
+PF000459,2025-05-17,Expense,Shopping,Clothing,100.78,USD,Credit Card,Employer,London,Savings,2000,708.42,5000,Completed,Sample record
+PF000460,2025-05-10,Expense,Transport,Fuel,447.91,USD,Debit Card,Amazon,Toronto,Savings,2000,1168.15,5000,Pending,Sample record
+PF000461,2025-02-27,Expense,Bills,Internet,468.04,USD,Cash,Amazon,Lahore,Checking,2000,1490.13,5000,Completed,Sample record
+PF000462,2025-01-09,Expense,Transport,Taxi,265.61,USD,Digital Wallet,Employer,Lahore,Checking,2000,1705.48,5000,Pending,Sample record
+PF000463,2025-07-17,Expense,Shopping,Clothing,455.81,USD,Cash,Employer,Lahore,Credit,2000,200.05,5000,Pending,Sample record
+PF000464,2025-11-10,Income,Salary,Monthly,406.26,USD,Cash,Walmart,Sydney,Checking,2000,920.81,5000,Completed,Sample record
+PF000465,2025-08-05,Income,Salary,Monthly,149.76,USD,Digital Wallet,Walmart,Toronto,Savings,2000,1672.2,5000,Pending,Sample record
+PF000466,2025-06-08,Income,Salary,Monthly,411.59,USD,Bank Transfer,Uber,Lahore,Credit,2000,888.36,5000,Pending,Sample record
+PF000467,2025-01-01,Expense,Bills,Utilities,48.7,USD,Cash,Uber,Toronto,Savings,2000,1097.08,5000,Pending,Sample record
+PF000468,2025-09-18,Expense,Shopping,Clothing,111.44,USD,Digital Wallet,Amazon,Sydney,Savings,2000,1777.22,5000,Pending,Sample record
+PF000469,2025-04-21,Expense,Food,Restaurant,269.76,USD,Credit Card,Employer,Toronto,Checking,2000,1316.72,5000,Completed,Sample record
+PF000470,2025-03-12,Expense,Food,Restaurant,108.73,USD,Bank Transfer,Walmart,London,Savings,2000,1094.26,5000,Pending,Sample record
+PF000471,2025-10-22,Expense,Food,Restaurant,26.21,USD,Bank Transfer,Walmart,Lahore,Checking,2000,1107.63,5000,Completed,Sample record
+PF000472,2025-06-07,Expense,Shopping,Clothing,241.36,USD,Debit Card,Employer,Lahore,Credit,2000,1110.33,5000,Pending,Sample record
+PF000473,2025-01-21,Expense,Transport,Taxi,278.09,USD,Debit Card,Uber,Toronto,Credit,2000,1010.27,5000,Completed,Sample record
+PF000474,2025-10-12,Expense,Bills,Internet,418.87,USD,Cash,Local Store,London,Credit,2000,1104.84,5000,Pending,Sample record
+PF000475,2025-09-21,Expense,Transport,Fuel,415.11,USD,Debit Card,Uber,New York,Checking,2000,1756.87,5000,Pending,Sample record
+PF000476,2025-04-12,Income,Salary,Monthly,344.97,USD,Bank Transfer,Amazon,Sydney,Checking,2000,823.29,5000,Pending,Sample record
+PF000477,2025-04-05,Expense,Transport,Fuel,296.07,USD,Digital Wallet,Employer,Toronto,Savings,2000,1483.07,5000,Completed,Sample record
+PF000478,2025-07-10,Expense,Food,Restaurant,377.61,USD,Credit Card,Uber,Toronto,Credit,2000,208.3,5000,Pending,Sample record
+PF000479,2025-08-20,Income,Salary,Monthly,452.77,USD,Debit Card,Uber,Toronto,Savings,2000,1060.41,5000,Pending,Sample record
+PF000480,2025-06-21,Expense,Food,Groceries,131.07,USD,Debit Card,Uber,London,Credit,2000,1273.46,5000,Completed,Sample record
+PF000481,2025-11-14,Income,Salary,Monthly,153.79,USD,Debit Card,Uber,Toronto,Savings,2000,1238.2,5000,Pending,Sample record
+PF000482,2025-01-25,Expense,Shopping,Clothing,53.13,USD,Credit Card,Employer,Lahore,Checking,2000,461.48,5000,Pending,Sample record
+PF000483,2025-07-13,Expense,Transport,Taxi,281.38,USD,Digital Wallet,Walmart,New York,Checking,2000,635.76,5000,Completed,Sample record
+PF000484,2025-05-06,Expense,Transport,Taxi,309.67,USD,Debit Card,Local Store,New York,Credit,2000,969.41,5000,Completed,Sample record
+PF000485,2025-07-16,Expense,Shopping,Clothing,205.88,USD,Bank Transfer,Local Store,New York,Credit,2000,506.19,5000,Completed,Sample record
+PF000486,2025-03-05,Expense,Shopping,Electronics,469.63,USD,Debit Card,Employer,New York,Savings,2000,623.13,5000,Pending,Sample record
+PF000487,2025-04-03,Expense,Bills,Internet,459.93,USD,Digital Wallet,Employer,New York,Credit,2000,1102.57,5000,Pending,Sample record
+PF000488,2025-09-01,Expense,Food,Groceries,360.38,USD,Cash,Local Store,London,Checking,2000,726.41,5000,Completed,Sample record
+PF000489,2025-12-05,Income,Salary,Monthly,418.87,USD,Digital Wallet,Employer,New York,Checking,2000,783.23,5000,Pending,Sample record
+PF000490,2025-06-07,Expense,Shopping,Clothing,496.22,USD,Digital Wallet,Uber,Toronto,Credit,2000,1533.22,5000,Pending,Sample record
+PF000491,2025-08-25,Income,Salary,Monthly,363.04,USD,Bank Transfer,Amazon,New York,Savings,2000,632.69,5000,Pending,Sample record
+PF000492,2025-09-14,Expense,Food,Groceries,14.95,USD,Bank Transfer,Walmart,Sydney,Savings,2000,1027.33,5000,Completed,Sample record
+PF000493,2025-01-15,Income,Salary,Monthly,41.29,USD,Debit Card,Walmart,New York,Checking,2000,639.59,5000,Completed,Sample record
+PF000494,2025-08-17,Income,Salary,Monthly,450.16,USD,Bank Transfer,Walmart,Sydney,Savings,2000,1196.71,5000,Completed,Sample record
+PF000495,2025-11-15,Expense,Food,Groceries,184.9,USD,Cash,Walmart,Sydney,Credit,2000,758.6,5000,Completed,Sample record
+PF000496,2025-08-03,Expense,Food,Restaurant,47.32,USD,Credit Card,Amazon,Sydney,Savings,2000,756.38,5000,Pending,Sample record
+PF000497,2025-07-01,Expense,Transport,Taxi,18.14,USD,Credit Card,Employer,Sydney,Checking,2000,638.13,5000,Pending,Sample record
+PF000498,2025-10-18,Income,Salary,Monthly,276.77,USD,Bank Transfer,Local Store,Toronto,Checking,2000,1317.33,5000,Pending,Sample record
+PF000499,2025-07-21,Income,Salary,Monthly,81.26,USD,Bank Transfer,Employer,Toronto,Credit,2000,458.03,5000,Pending,Sample record
+PF000500,2025-02-02,Expense,Shopping,Clothing,215.87,USD,Debit Card,Uber,Toronto,Savings,2000,1513.17,5000,Pending,Sample record
+PF000501,2025-03-06,Expense,Transport,Taxi,37.84,USD,Credit Card,Walmart,Lahore,Checking,2000,1238.22,5000,Pending,Sample record
+PF000502,2025-01-18,Expense,Transport,Taxi,357.83,USD,Debit Card,Local Store,New York,Savings,2000,1490.3,5000,Completed,Sample record
+PF000503,2025-12-19,Expense,Transport,Taxi,165.48,USD,Cash,Employer,Lahore,Credit,2000,1556.83,5000,Pending,Sample record
+PF000504,2025-01-20,Expense,Shopping,Clothing,132.27,USD,Digital Wallet,Employer,New York,Checking,2000,1235.32,5000,Pending,Sample record
+PF000505,2025-03-12,Expense,Food,Groceries,486.46,USD,Debit Card,Walmart,London,Checking,2000,1338.74,5000,Completed,Sample record
+PF000506,2025-11-11,Expense,Bills,Utilities,283.41,USD,Credit Card,Employer,Toronto,Credit,2000,1170.08,5000,Pending,Sample record
+PF000507,2025-09-25,Expense,Shopping,Clothing,269.34,USD,Cash,Local Store,Sydney,Credit,2000,1552.0,5000,Pending,Sample record
+PF000508,2025-01-07,Expense,Transport,Taxi,95.47,USD,Digital Wallet,Employer,London,Checking,2000,1776.94,5000,Completed,Sample record
+PF000509,2025-04-24,Expense,Transport,Fuel,173.63,USD,Bank Transfer,Uber,New York,Checking,2000,1753.42,5000,Completed,Sample record
+PF000510,2025-11-06,Expense,Bills,Internet,52.59,USD,Cash,Uber,New York,Savings,2000,1754.21,5000,Pending,Sample record
+PF000511,2025-06-20,Expense,Shopping,Electronics,273.74,USD,Debit Card,Amazon,New York,Savings,2000,1256.46,5000,Pending,Sample record
+PF000512,2025-06-18,Expense,Shopping,Clothing,48.81,USD,Cash,Employer,New York,Savings,2000,255.4,5000,Pending,Sample record
+PF000513,2025-07-05,Income,Salary,Monthly,220.21,USD,Digital Wallet,Local Store,New York,Checking,2000,578.4,5000,Pending,Sample record
+PF000514,2025-02-02,Expense,Bills,Internet,344.01,USD,Credit Card,Amazon,Toronto,Savings,2000,746.37,5000,Completed,Sample record
+PF000515,2025-08-06,Expense,Transport,Taxi,483.23,USD,Cash,Local Store,London,Credit,2000,903.7,5000,Pending,Sample record
+PF000516,2025-09-03,Income,Salary,Monthly,152.67,USD,Bank Transfer,Amazon,Lahore,Checking,2000,978.97,5000,Pending,Sample record
+PF000517,2025-11-05,Expense,Bills,Internet,73.47,USD,Debit Card,Local Store,Toronto,Savings,2000,1040.31,5000,Pending,Sample record
+PF000518,2025-12-11,Expense,Shopping,Clothing,453.86,USD,Digital Wallet,Uber,New York,Credit,2000,1193.81,5000,Completed,Sample record
+PF000519,2025-06-09,Expense,Shopping,Electronics,123.33,USD,Credit Card,Local Store,Sydney,Savings,2000,571.55,5000,Pending,Sample record
+PF000520,2025-12-06,Expense,Transport,Taxi,18.48,USD,Digital Wallet,Local Store,Sydney,Savings,2000,920.69,5000,Completed,Sample record
+PF000521,2025-01-09,Expense,Food,Groceries,170.04,USD,Cash,Walmart,London,Savings,2000,1394.67,5000,Pending,Sample record
+PF000522,2025-05-22,Income,Salary,Monthly,381.63,USD,Debit Card,Employer,New York,Savings,2000,845.9,5000,Pending,Sample record
+PF000523,2025-01-23,Expense,Transport,Fuel,37.85,USD,Credit Card,Employer,Toronto,Credit,2000,1127.85,5000,Pending,Sample record
+PF000524,2025-08-26,Income,Salary,Monthly,463.76,USD,Digital Wallet,Walmart,Lahore,Checking,2000,1574.37,5000,Pending,Sample record
+PF000525,2025-10-20,Expense,Bills,Utilities,352.71,USD,Credit Card,Walmart,New York,Credit,2000,861.47,5000,Pending,Sample record
+PF000526,2025-05-18,Income,Salary,Monthly,152.99,USD,Bank Transfer,Walmart,London,Savings,2000,484.33,5000,Pending,Sample record
+PF000527,2025-06-27,Income,Salary,Monthly,385.84,USD,Credit Card,Amazon,Sydney,Savings,2000,500.96,5000,Pending,Sample record
+PF000528,2025-07-03,Expense,Transport,Fuel,493.13,USD,Credit Card,Amazon,Toronto,Credit,2000,341.8,5000,Completed,Sample record
+PF000529,2025-12-06,Expense,Transport,Fuel,496.6,USD,Credit Card,Uber,Sydney,Savings,2000,1173.96,5000,Completed,Sample record
+PF000530,2025-03-20,Income,Salary,Monthly,23.94,USD,Cash,Uber,Toronto,Credit,2000,1771.82,5000,Pending,Sample record
+PF000531,2025-03-11,Expense,Shopping,Electronics,59.58,USD,Digital Wallet,Employer,London,Savings,2000,758.5,5000,Pending,Sample record
+PF000532,2025-01-27,Expense,Shopping,Clothing,264.38,USD,Debit Card,Employer,Toronto,Savings,2000,1263.55,5000,Pending,Sample record
+PF000533,2025-02-14,Expense,Food,Restaurant,119.2,USD,Digital Wallet,Walmart,Toronto,Checking,2000,377.56,5000,Completed,Sample record
+PF000534,2025-09-04,Expense,Transport,Taxi,260.88,USD,Digital Wallet,Amazon,London,Credit,2000,1484.46,5000,Completed,Sample record
+PF000535,2025-03-14,Expense,Shopping,Clothing,262.16,USD,Debit Card,Amazon,Lahore,Checking,2000,1045.24,5000,Pending,Sample record
+PF000536,2025-09-25,Expense,Transport,Fuel,260.11,USD,Digital Wallet,Employer,London,Credit,2000,498.57,5000,Completed,Sample record
+PF000537,2025-05-14,Expense,Bills,Utilities,208.84,USD,Credit Card,Local Store,London,Credit,2000,1008.66,5000,Completed,Sample record
+PF000538,2025-05-20,Expense,Bills,Internet,199.14,USD,Digital Wallet,Local Store,Toronto,Credit,2000,661.74,5000,Completed,Sample record
+PF000539,2025-06-06,Expense,Transport,Fuel,198.7,USD,Cash,Amazon,New York,Savings,2000,1232.58,5000,Completed,Sample record
+PF000540,2025-04-08,Expense,Transport,Fuel,19.32,USD,Digital Wallet,Amazon,London,Checking,2000,1384.2,5000,Pending,Sample record
+PF000541,2025-12-28,Income,Salary,Monthly,493.04,USD,Bank Transfer,Walmart,Toronto,Savings,2000,744.8,5000,Pending,Sample record
+PF000542,2025-11-01,Expense,Food,Groceries,145.03,USD,Bank Transfer,Walmart,London,Checking,2000,1543.07,5000,Completed,Sample record
+PF000543,2025-04-06,Expense,Bills,Internet,467.92,USD,Credit Card,Amazon,Lahore,Checking,2000,928.89,5000,Pending,Sample record
+PF000544,2025-04-07,Expense,Food,Groceries,35.55,USD,Digital Wallet,Uber,New York,Credit,2000,1276.42,5000,Completed,Sample record
+PF000545,2025-01-23,Expense,Bills,Utilities,225.92,USD,Cash,Amazon,Sydney,Credit,2000,1252.7,5000,Pending,Sample record
+PF000546,2025-09-20,Expense,Bills,Utilities,259.37,USD,Cash,Employer,London,Credit,2000,780.58,5000,Pending,Sample record
+PF000547,2025-06-12,Expense,Shopping,Electronics,228.02,USD,Bank Transfer,Uber,Sydney,Credit,2000,1396.49,5000,Pending,Sample record
+PF000548,2025-05-04,Expense,Food,Restaurant,412.48,USD,Cash,Amazon,Toronto,Savings,2000,1092.6,5000,Completed,Sample record
+PF000549,2025-12-15,Expense,Transport,Fuel,449.96,USD,Digital Wallet,Walmart,Lahore,Checking,2000,1791.54,5000,Completed,Sample record
+PF000550,2025-09-06,Expense,Food,Groceries,442.68,USD,Credit Card,Uber,London,Checking,2000,941.0,5000,Completed,Sample record
+PF000551,2025-12-08,Expense,Shopping,Clothing,400.8,USD,Digital Wallet,Amazon,London,Credit,2000,626.06,5000,Pending,Sample record
+PF000552,2025-09-24,Expense,Food,Groceries,444.26,USD,Debit Card,Uber,London,Savings,2000,402.05,5000,Completed,Sample record
+PF000553,2025-05-01,Expense,Shopping,Electronics,206.49,USD,Digital Wallet,Amazon,Lahore,Checking,2000,1385.71,5000,Pending,Sample record
+PF000554,2025-03-13,Expense,Food,Groceries,46.64,USD,Credit Card,Walmart,London,Savings,2000,662.1,5000,Completed,Sample record
+PF000555,2025-07-23,Expense,Bills,Utilities,410.59,USD,Credit Card,Local Store,New York,Savings,2000,249.29,5000,Pending,Sample record
+PF000556,2025-10-09,Expense,Transport,Taxi,489.15,USD,Credit Card,Amazon,Sydney,Checking,2000,1395.52,5000,Completed,Sample record
+PF000557,2025-08-04,Expense,Food,Groceries,80.97,USD,Digital Wallet,Employer,Lahore,Checking,2000,1653.67,5000,Pending,Sample record
+PF000558,2025-05-25,Expense,Shopping,Electronics,442.07,USD,Cash,Amazon,New York,Credit,2000,399.14,5000,Completed,Sample record
+PF000559,2025-04-19,Expense,Transport,Fuel,41.0,USD,Credit Card,Amazon,London,Credit,2000,1270.63,5000,Pending,Sample record
+PF000560,2025-10-02,Expense,Transport,Fuel,63.68,USD,Bank Transfer,Amazon,Sydney,Credit,2000,1165.08,5000,Pending,Sample record
+PF000561,2025-06-23,Expense,Food,Restaurant,467.86,USD,Credit Card,Uber,Lahore,Savings,2000,1205.05,5000,Pending,Sample record
+PF000562,2025-03-14,Expense,Transport,Fuel,157.32,USD,Cash,Uber,Toronto,Credit,2000,260.49,5000,Pending,Sample record
+PF000563,2025-05-09,Expense,Transport,Taxi,154.9,USD,Credit Card,Walmart,Lahore,Credit,2000,236.52,5000,Completed,Sample record
+PF000564,2025-03-17,Expense,Shopping,Clothing,227.33,USD,Cash,Amazon,Lahore,Credit,2000,1421.94,5000,Completed,Sample record
+PF000565,2025-02-03,Expense,Transport,Taxi,441.41,USD,Digital Wallet,Walmart,New York,Credit,2000,1442.12,5000,Completed,Sample record
+PF000566,2025-03-15,Expense,Food,Groceries,42.21,USD,Cash,Local Store,New York,Savings,2000,438.48,5000,Pending,Sample record
+PF000567,2025-06-23,Expense,Shopping,Electronics,101.42,USD,Debit Card,Uber,Lahore,Checking,2000,1196.19,5000,Completed,Sample record
+PF000568,2025-05-14,Income,Salary,Monthly,234.48,USD,Debit Card,Amazon,Sydney,Checking,2000,1214.71,5000,Completed,Sample record
+PF000569,2025-05-27,Expense,Food,Restaurant,31.17,USD,Credit Card,Amazon,London,Savings,2000,1095.09,5000,Completed,Sample record
+PF000570,2025-06-05,Income,Salary,Monthly,473.74,USD,Cash,Employer,Toronto,Credit,2000,341.5,5000,Pending,Sample record
+PF000571,2025-09-22,Expense,Transport,Fuel,154.56,USD,Bank Transfer,Local Store,London,Checking,2000,753.47,5000,Pending,Sample record
+PF000572,2025-10-02,Expense,Transport,Fuel,454.43,USD,Bank Transfer,Amazon,Sydney,Savings,2000,269.16,5000,Completed,Sample record
+PF000573,2025-08-15,Expense,Food,Groceries,191.76,USD,Debit Card,Local Store,Sydney,Credit,2000,594.54,5000,Pending,Sample record
+PF000574,2025-05-06,Expense,Shopping,Clothing,330.78,USD,Bank Transfer,Uber,Sydney,Credit,2000,1279.0,5000,Completed,Sample record
+PF000575,2025-02-20,Expense,Shopping,Electronics,348.84,USD,Digital Wallet,Uber,Sydney,Savings,2000,1706.29,5000,Pending,Sample record
+PF000576,2025-09-22,Expense,Transport,Fuel,281.0,USD,Cash,Local Store,Sydney,Checking,2000,1426.47,5000,Completed,Sample record
+PF000577,2025-05-26,Expense,Transport,Taxi,269.7,USD,Cash,Uber,London,Checking,2000,951.66,5000,Completed,Sample record
+PF000578,2025-12-15,Income,Salary,Monthly,426.02,USD,Bank Transfer,Walmart,Toronto,Savings,2000,709.87,5000,Pending,Sample record
+PF000579,2025-07-18,Expense,Bills,Internet,31.43,USD,Credit Card,Local Store,New York,Checking,2000,621.6,5000,Completed,Sample record
+PF000580,2025-03-07,Income,Salary,Monthly,73.43,USD,Credit Card,Walmart,Lahore,Savings,2000,592.12,5000,Completed,Sample record
+PF000581,2025-06-14,Expense,Food,Restaurant,209.06,USD,Credit Card,Local Store,Lahore,Checking,2000,1485.06,5000,Completed,Sample record
+PF000582,2025-12-07,Expense,Food,Restaurant,43.72,USD,Credit Card,Uber,Lahore,Checking,2000,362.78,5000,Pending,Sample record
+PF000583,2025-10-06,Expense,Shopping,Electronics,489.26,USD,Debit Card,Employer,Toronto,Savings,2000,1334.34,5000,Pending,Sample record
+PF000584,2025-03-02,Expense,Transport,Fuel,284.94,USD,Debit Card,Local Store,Lahore,Savings,2000,1383.85,5000,Completed,Sample record
+PF000585,2025-03-18,Expense,Bills,Internet,214.64,USD,Cash,Walmart,Toronto,Checking,2000,537.8,5000,Completed,Sample record
+PF000586,2025-10-21,Expense,Transport,Fuel,234.81,USD,Bank Transfer,Uber,Lahore,Checking,2000,1085.74,5000,Completed,Sample record
+PF000587,2025-12-26,Expense,Bills,Utilities,111.78,USD,Digital Wallet,Walmart,New York,Credit,2000,205.41,5000,Pending,Sample record
+PF000588,2025-08-05,Expense,Shopping,Electronics,229.71,USD,Credit Card,Local Store,Toronto,Credit,2000,1015.1,5000,Pending,Sample record
+PF000589,2025-10-19,Expense,Shopping,Electronics,438.47,USD,Debit Card,Walmart,Sydney,Credit,2000,254.52,5000,Completed,Sample record
+PF000590,2025-03-03,Expense,Food,Restaurant,200.84,USD,Debit Card,Walmart,London,Checking,2000,1694.09,5000,Completed,Sample record
+PF000591,2025-01-15,Income,Salary,Monthly,462.32,USD,Debit Card,Employer,New York,Savings,2000,947.77,5000,Pending,Sample record
+PF000592,2025-04-16,Expense,Shopping,Clothing,284.07,USD,Bank Transfer,Employer,Sydney,Checking,2000,499.47,5000,Pending,Sample record
+PF000593,2025-11-17,Income,Salary,Monthly,326.89,USD,Debit Card,Uber,New York,Credit,2000,821.33,5000,Pending,Sample record
+PF000594,2025-02-08,Expense,Transport,Taxi,348.56,USD,Cash,Amazon,New York,Credit,2000,360.41,5000,Completed,Sample record
+PF000595,2025-12-05,Income,Salary,Monthly,257.26,USD,Digital Wallet,Walmart,Sydney,Credit,2000,804.4,5000,Pending,Sample record
+PF000596,2025-07-25,Expense,Transport,Taxi,235.28,USD,Debit Card,Amazon,London,Savings,2000,1415.81,5000,Pending,Sample record
+PF000597,2025-02-13,Expense,Transport,Fuel,403.0,USD,Bank Transfer,Amazon,Sydney,Credit,2000,1321.69,5000,Pending,Sample record
+PF000598,2025-03-26,Expense,Food,Groceries,468.12,USD,Digital Wallet,Uber,New York,Credit,2000,1083.86,5000,Pending,Sample record
+PF000599,2025-03-14,Expense,Transport,Fuel,275.19,USD,Cash,Walmart,Toronto,Credit,2000,1391.63,5000,Completed,Sample record
+PF000600,2025-05-22,Expense,Bills,Internet,102.95,USD,Digital Wallet,Local Store,London,Savings,2000,862.62,5000,Completed,Sample record
+PF000601,2025-03-15,Expense,Food,Groceries,113.28,USD,Cash,Walmart,New York,Checking,2000,225.03,5000,Pending,Sample record
+PF000602,2025-07-19,Expense,Transport,Fuel,70.05,USD,Cash,Uber,Sydney,Credit,2000,254.88,5000,Pending,Sample record
+PF000603,2025-06-21,Expense,Food,Restaurant,381.02,USD,Bank Transfer,Local Store,Toronto,Savings,2000,403.29,5000,Completed,Sample record
+PF000604,2025-06-08,Expense,Food,Restaurant,12.95,USD,Debit Card,Local Store,Toronto,Savings,2000,1561.88,5000,Pending,Sample record
+PF000605,2025-10-15,Expense,Bills,Utilities,155.42,USD,Credit Card,Local Store,London,Savings,2000,887.09,5000,Completed,Sample record
+PF000606,2025-07-28,Expense,Bills,Utilities,64.52,USD,Cash,Employer,Lahore,Checking,2000,1077.49,5000,Completed,Sample record
+PF000607,2025-12-14,Expense,Shopping,Electronics,464.99,USD,Debit Card,Employer,Lahore,Savings,2000,886.45,5000,Pending,Sample record
+PF000608,2025-03-03,Income,Salary,Monthly,16.93,USD,Debit Card,Uber,London,Checking,2000,1669.23,5000,Completed,Sample record
+PF000609,2025-05-28,Expense,Bills,Internet,27.99,USD,Credit Card,Amazon,Sydney,Credit,2000,1595.63,5000,Pending,Sample record
+PF000610,2025-05-06,Expense,Food,Groceries,392.75,USD,Digital Wallet,Walmart,London,Savings,2000,696.02,5000,Pending,Sample record
+PF000611,2025-07-28,Expense,Food,Restaurant,192.51,USD,Digital Wallet,Uber,Sydney,Credit,2000,1790.93,5000,Completed,Sample record
+PF000612,2025-07-22,Expense,Shopping,Clothing,419.81,USD,Cash,Local Store,Lahore,Checking,2000,1136.77,5000,Pending,Sample record
+PF000613,2025-05-09,Income,Salary,Monthly,50.37,USD,Debit Card,Amazon,New York,Savings,2000,1587.15,5000,Pending,Sample record
+PF000614,2025-04-07,Expense,Bills,Internet,237.05,USD,Bank Transfer,Employer,Sydney,Savings,2000,1369.63,5000,Completed,Sample record
+PF000615,2025-06-09,Expense,Shopping,Electronics,238.62,USD,Bank Transfer,Employer,London,Savings,2000,1033.56,5000,Completed,Sample record
+PF000616,2025-03-23,Expense,Transport,Taxi,238.11,USD,Digital Wallet,Amazon,New York,Savings,2000,1406.82,5000,Completed,Sample record
+PF000617,2025-09-20,Expense,Shopping,Electronics,83.56,USD,Digital Wallet,Local Store,Toronto,Savings,2000,622.33,5000,Pending,Sample record
+PF000618,2025-10-03,Expense,Bills,Utilities,415.73,USD,Debit Card,Walmart,Toronto,Savings,2000,1110.0,5000,Completed,Sample record
+PF000619,2025-11-17,Expense,Bills,Internet,258.63,USD,Debit Card,Employer,Toronto,Checking,2000,1721.31,5000,Completed,Sample record
+PF000620,2025-08-18,Expense,Shopping,Electronics,199.73,USD,Digital Wallet,Local Store,Lahore,Checking,2000,1112.22,5000,Pending,Sample record
+PF000621,2025-09-23,Expense,Shopping,Electronics,125.44,USD,Digital Wallet,Employer,New York,Checking,2000,594.32,5000,Completed,Sample record
+PF000622,2025-01-28,Expense,Transport,Fuel,72.21,USD,Digital Wallet,Walmart,Lahore,Savings,2000,819.15,5000,Pending,Sample record
+PF000623,2025-02-01,Expense,Shopping,Clothing,45.12,USD,Digital Wallet,Local Store,Toronto,Savings,2000,1108.82,5000,Pending,Sample record
+PF000624,2025-08-01,Expense,Transport,Fuel,220.87,USD,Debit Card,Local Store,New York,Savings,2000,478.0,5000,Completed,Sample record
+PF000625,2025-09-14,Expense,Shopping,Clothing,179.45,USD,Credit Card,Amazon,Lahore,Credit,2000,638.05,5000,Pending,Sample record
+PF000626,2025-08-27,Expense,Food,Restaurant,175.42,USD,Credit Card,Employer,Toronto,Credit,2000,706.85,5000,Pending,Sample record
+PF000627,2025-01-26,Income,Salary,Monthly,165.99,USD,Digital Wallet,Employer,New York,Checking,2000,538.31,5000,Completed,Sample record
+PF000628,2025-06-05,Expense,Food,Restaurant,461.04,USD,Credit Card,Uber,London,Savings,2000,290.26,5000,Completed,Sample record
+PF000629,2025-08-22,Income,Salary,Monthly,60.93,USD,Digital Wallet,Employer,Sydney,Savings,2000,1096.61,5000,Pending,Sample record
+PF000630,2025-12-04,Income,Salary,Monthly,307.66,USD,Credit Card,Uber,Toronto,Checking,2000,1568.27,5000,Pending,Sample record
+PF000631,2025-08-24,Expense,Shopping,Electronics,153.46,USD,Digital Wallet,Amazon,London,Savings,2000,1624.88,5000,Pending,Sample record
+PF000632,2025-08-10,Expense,Bills,Internet,127.1,USD,Credit Card,Walmart,New York,Credit,2000,1342.39,5000,Completed,Sample record
+PF000633,2025-04-26,Expense,Bills,Internet,475.97,USD,Digital Wallet,Employer,Lahore,Credit,2000,1299.37,5000,Pending,Sample record
+PF000634,2025-04-28,Expense,Bills,Internet,368.65,USD,Cash,Uber,London,Credit,2000,1598.35,5000,Completed,Sample record
+PF000635,2025-04-09,Expense,Transport,Taxi,409.64,USD,Cash,Local Store,New York,Credit,2000,459.38,5000,Completed,Sample record
+PF000636,2025-10-14,Expense,Bills,Utilities,193.29,USD,Digital Wallet,Amazon,New York,Savings,2000,1152.18,5000,Pending,Sample record
+PF000637,2025-04-26,Expense,Bills,Internet,196.82,USD,Digital Wallet,Local Store,Sydney,Credit,2000,843.27,5000,Pending,Sample record
+PF000638,2025-09-22,Expense,Shopping,Clothing,298.36,USD,Cash,Amazon,Sydney,Credit,2000,758.26,5000,Pending,Sample record
+PF000639,2025-08-02,Expense,Bills,Internet,133.93,USD,Debit Card,Amazon,Sydney,Savings,2000,520.06,5000,Completed,Sample record
+PF000640,2025-09-27,Expense,Transport,Fuel,11.86,USD,Digital Wallet,Uber,New York,Credit,2000,1715.96,5000,Completed,Sample record
+PF000641,2025-08-27,Expense,Shopping,Electronics,230.21,USD,Digital Wallet,Employer,Lahore,Savings,2000,864.3,5000,Pending,Sample record
+PF000642,2025-09-02,Expense,Shopping,Electronics,184.02,USD,Cash,Local Store,New York,Savings,2000,1336.57,5000,Pending,Sample record
+PF000643,2025-11-01,Income,Salary,Monthly,59.44,USD,Digital Wallet,Walmart,Sydney,Checking,2000,1434.86,5000,Completed,Sample record
+PF000644,2025-03-15,Expense,Shopping,Clothing,407.62,USD,Debit Card,Amazon,New York,Checking,2000,519.67,5000,Pending,Sample record
+PF000645,2025-10-20,Expense,Shopping,Electronics,147.2,USD,Bank Transfer,Uber,Sydney,Savings,2000,1109.31,5000,Pending,Sample record
+PF000646,2025-02-11,Expense,Shopping,Clothing,44.45,USD,Credit Card,Local Store,New York,Savings,2000,1092.26,5000,Pending,Sample record
+PF000647,2025-03-20,Expense,Transport,Taxi,373.82,USD,Debit Card,Uber,Lahore,Credit,2000,1747.28,5000,Pending,Sample record
+PF000648,2025-09-13,Expense,Food,Restaurant,211.62,USD,Cash,Amazon,Lahore,Checking,2000,1110.59,5000,Pending,Sample record
+PF000649,2025-11-21,Income,Salary,Monthly,109.8,USD,Bank Transfer,Employer,Toronto,Savings,2000,883.22,5000,Completed,Sample record
+PF000650,2025-11-26,Income,Salary,Monthly,75.36,USD,Digital Wallet,Amazon,Lahore,Checking,2000,1265.66,5000,Pending,Sample record
+PF000651,2025-02-24,Expense,Transport,Taxi,458.47,USD,Credit Card,Walmart,New York,Checking,2000,713.97,5000,Pending,Sample record
+PF000652,2025-07-20,Expense,Shopping,Electronics,91.08,USD,Cash,Employer,Toronto,Credit,2000,1008.0,5000,Completed,Sample record
+PF000653,2025-03-11,Income,Salary,Monthly,206.2,USD,Bank Transfer,Employer,London,Savings,2000,551.21,5000,Completed,Sample record
+PF000654,2025-07-27,Expense,Transport,Taxi,93.85,USD,Credit Card,Local Store,Sydney,Savings,2000,1644.5,5000,Pending,Sample record
+PF000655,2025-11-07,Expense,Transport,Taxi,94.88,USD,Debit Card,Local Store,London,Credit,2000,1421.24,5000,Completed,Sample record
+PF000656,2025-07-19,Expense,Shopping,Electronics,82.39,USD,Digital Wallet,Amazon,Sydney,Credit,2000,1176.88,5000,Pending,Sample record
+PF000657,2025-10-03,Expense,Bills,Internet,172.46,USD,Bank Transfer,Amazon,New York,Checking,2000,764.35,5000,Completed,Sample record
+PF000658,2025-09-03,Expense,Shopping,Clothing,475.54,USD,Bank Transfer,Local Store,Lahore,Credit,2000,550.32,5000,Pending,Sample record
+PF000659,2025-07-02,Expense,Transport,Fuel,127.78,USD,Cash,Local Store,Sydney,Credit,2000,680.96,5000,Completed,Sample record
+PF000660,2025-08-21,Expense,Shopping,Electronics,389.0,USD,Credit Card,Amazon,New York,Checking,2000,1690.68,5000,Completed,Sample record
+PF000661,2025-05-21,Income,Salary,Monthly,411.12,USD,Digital Wallet,Walmart,New York,Credit,2000,733.67,5000,Pending,Sample record
+PF000662,2025-08-26,Expense,Shopping,Electronics,389.24,USD,Cash,Local Store,London,Credit,2000,241.39,5000,Pending,Sample record
+PF000663,2025-02-28,Expense,Transport,Taxi,471.0,USD,Credit Card,Employer,Lahore,Checking,2000,1657.57,5000,Completed,Sample record
+PF000664,2025-08-28,Income,Salary,Monthly,97.5,USD,Bank Transfer,Walmart,New York,Savings,2000,1409.82,5000,Completed,Sample record
+PF000665,2025-09-20,Expense,Transport,Fuel,11.27,USD,Cash,Uber,Sydney,Credit,2000,343.62,5000,Pending,Sample record
+PF000666,2025-09-17,Expense,Food,Groceries,163.66,USD,Cash,Walmart,Sydney,Checking,2000,686.18,5000,Pending,Sample record
+PF000667,2025-05-12,Expense,Transport,Fuel,204.52,USD,Digital Wallet,Uber,Sydney,Checking,2000,1387.92,5000,Pending,Sample record
+PF000668,2025-07-02,Expense,Bills,Internet,431.88,USD,Bank Transfer,Amazon,Lahore,Checking,2000,1335.35,5000,Completed,Sample record
+PF000669,2025-12-02,Income,Salary,Monthly,354.62,USD,Digital Wallet,Amazon,Sydney,Savings,2000,373.79,5000,Pending,Sample record
+PF000670,2025-11-15,Expense,Shopping,Clothing,335.06,USD,Digital Wallet,Local Store,Sydney,Checking,2000,1517.79,5000,Completed,Sample record
+PF000671,2025-02-01,Expense,Transport,Fuel,63.44,USD,Debit Card,Uber,Lahore,Checking,2000,747.61,5000,Pending,Sample record
+PF000672,2025-11-22,Expense,Shopping,Clothing,276.12,USD,Credit Card,Uber,Sydney,Checking,2000,1347.17,5000,Completed,Sample record
+PF000673,2025-04-04,Expense,Transport,Taxi,294.8,USD,Debit Card,Walmart,New York,Credit,2000,244.65,5000,Pending,Sample record
+PF000674,2025-07-28,Income,Salary,Monthly,136.68,USD,Credit Card,Employer,Lahore,Checking,2000,1722.24,5000,Completed,Sample record
+PF000675,2025-10-26,Expense,Transport,Taxi,252.53,USD,Bank Transfer,Amazon,Toronto,Credit,2000,1371.5,5000,Completed,Sample record
+PF000676,2025-06-13,Income,Salary,Monthly,410.13,USD,Debit Card,Employer,Toronto,Savings,2000,1177.17,5000,Completed,Sample record
+PF000677,2025-12-01,Expense,Shopping,Clothing,421.93,USD,Cash,Uber,Sydney,Checking,2000,1726.7,5000,Completed,Sample record
+PF000678,2025-05-10,Expense,Transport,Fuel,380.17,USD,Digital Wallet,Local Store,Sydney,Credit,2000,620.95,5000,Pending,Sample record
+PF000679,2025-02-19,Expense,Shopping,Electronics,158.48,USD,Debit Card,Walmart,London,Checking,2000,929.14,5000,Pending,Sample record
+PF000680,2025-11-13,Income,Salary,Monthly,65.71,USD,Digital Wallet,Uber,London,Savings,2000,1472.55,5000,Completed,Sample record
+PF000681,2025-03-13,Expense,Bills,Utilities,103.46,USD,Bank Transfer,Local Store,Toronto,Savings,2000,757.02,5000,Completed,Sample record
+PF000682,2025-06-26,Income,Salary,Monthly,47.98,USD,Credit Card,Walmart,Toronto,Checking,2000,255.42,5000,Completed,Sample record
+PF000683,2025-05-11,Expense,Bills,Utilities,406.45,USD,Bank Transfer,Amazon,London,Savings,2000,350.19,5000,Completed,Sample record
+PF000684,2025-04-04,Expense,Transport,Taxi,384.68,USD,Debit Card,Walmart,Toronto,Savings,2000,557.6,5000,Completed,Sample record
+PF000685,2025-01-23,Expense,Transport,Fuel,273.97,USD,Credit Card,Local Store,Toronto,Credit,2000,1286.04,5000,Pending,Sample record
+PF000686,2025-02-27,Expense,Bills,Internet,268.64,USD,Cash,Employer,New York,Savings,2000,631.69,5000,Pending,Sample record
+PF000687,2025-04-23,Expense,Bills,Utilities,468.25,USD,Bank Transfer,Uber,Sydney,Credit,2000,1523.42,5000,Completed,Sample record
+PF000688,2025-01-08,Expense,Bills,Utilities,50.96,USD,Cash,Local Store,Toronto,Savings,2000,1787.1,5000,Pending,Sample record
+PF000689,2025-04-06,Expense,Food,Groceries,225.44,USD,Debit Card,Employer,London,Checking,2000,814.75,5000,Pending,Sample record
+PF000690,2025-12-12,Expense,Shopping,Electronics,261.56,USD,Cash,Uber,Toronto,Savings,2000,254.28,5000,Completed,Sample record
+PF000691,2025-12-26,Expense,Food,Restaurant,57.06,USD,Digital Wallet,Amazon,Lahore,Savings,2000,495.6,5000,Pending,Sample record
+PF000692,2025-12-27,Expense,Shopping,Clothing,169.1,USD,Bank Transfer,Uber,Lahore,Savings,2000,880.81,5000,Completed,Sample record
+PF000693,2025-07-28,Expense,Food,Restaurant,214.36,USD,Debit Card,Walmart,Lahore,Checking,2000,281.26,5000,Pending,Sample record
+PF000694,2025-02-10,Expense,Food,Restaurant,438.6,USD,Credit Card,Local Store,Lahore,Credit,2000,1772.92,5000,Completed,Sample record
+PF000695,2025-01-23,Expense,Food,Groceries,239.88,USD,Bank Transfer,Walmart,New York,Savings,2000,1146.36,5000,Pending,Sample record
+PF000696,2025-07-06,Income,Salary,Monthly,75.61,USD,Cash,Amazon,New York,Credit,2000,467.57,5000,Pending,Sample record
+PF000697,2025-07-21,Expense,Shopping,Electronics,226.22,USD,Credit Card,Amazon,London,Credit,2000,914.72,5000,Completed,Sample record
+PF000698,2025-01-04,Expense,Bills,Internet,17.86,USD,Bank Transfer,Uber,Lahore,Savings,2000,760.52,5000,Completed,Sample record
+PF000699,2025-05-12,Expense,Shopping,Clothing,73.19,USD,Cash,Employer,Lahore,Credit,2000,1106.82,5000,Completed,Sample record
+PF000700,2025-01-08,Income,Salary,Monthly,194.8,USD,Digital Wallet,Employer,Lahore,Checking,2000,1762.02,5000,Pending,Sample record
+PF000701,2025-04-27,Expense,Transport,Fuel,224.42,USD,Debit Card,Employer,Sydney,Savings,2000,1189.76,5000,Pending,Sample record
+PF000702,2025-11-27,Expense,Bills,Internet,448.33,USD,Cash,Uber,London,Credit,2000,339.88,5000,Completed,Sample record
+PF000703,2025-11-25,Expense,Transport,Fuel,43.38,USD,Cash,Amazon,Sydney,Savings,2000,385.38,5000,Completed,Sample record
+PF000704,2025-06-18,Income,Salary,Monthly,132.02,USD,Bank Transfer,Walmart,New York,Savings,2000,1415.87,5000,Pending,Sample record
+PF000705,2025-10-17,Expense,Shopping,Clothing,329.88,USD,Debit Card,Walmart,Toronto,Savings,2000,1537.76,5000,Completed,Sample record
+PF000706,2025-07-15,Income,Salary,Monthly,121.32,USD,Debit Card,Amazon,Toronto,Credit,2000,1476.48,5000,Pending,Sample record
+PF000707,2025-07-27,Expense,Bills,Utilities,148.33,USD,Debit Card,Amazon,Toronto,Checking,2000,1317.01,5000,Completed,Sample record
+PF000708,2025-03-22,Expense,Bills,Internet,105.52,USD,Digital Wallet,Uber,Toronto,Savings,2000,1479.57,5000,Pending,Sample record
+PF000709,2025-09-03,Expense,Transport,Fuel,350.87,USD,Cash,Local Store,Sydney,Credit,2000,245.7,5000,Pending,Sample record
+PF000710,2025-05-26,Expense,Food,Groceries,286.46,USD,Digital Wallet,Amazon,Sydney,Savings,2000,673.49,5000,Pending,Sample record
+PF000711,2025-09-07,Income,Salary,Monthly,335.99,USD,Debit Card,Employer,New York,Credit,2000,681.45,5000,Completed,Sample record
+PF000712,2025-12-02,Expense,Food,Restaurant,375.41,USD,Digital Wallet,Employer,London,Savings,2000,1483.57,5000,Completed,Sample record
+PF000713,2025-08-07,Income,Salary,Monthly,219.06,USD,Credit Card,Uber,London,Checking,2000,300.39,5000,Completed,Sample record
+PF000714,2025-04-13,Expense,Transport,Fuel,424.33,USD,Debit Card,Employer,Lahore,Credit,2000,1173.5,5000,Pending,Sample record
+PF000715,2025-09-23,Expense,Transport,Fuel,140.93,USD,Bank Transfer,Local Store,Toronto,Checking,2000,1794.32,5000,Completed,Sample record
+PF000716,2025-02-07,Expense,Shopping,Electronics,433.56,USD,Bank Transfer,Local Store,Toronto,Savings,2000,929.29,5000,Completed,Sample record
+PF000717,2025-02-28,Income,Salary,Monthly,110.39,USD,Credit Card,Local Store,London,Checking,2000,401.58,5000,Completed,Sample record
+PF000718,2025-12-01,Expense,Food,Groceries,395.36,USD,Cash,Walmart,Toronto,Savings,2000,1799.56,5000,Pending,Sample record
+PF000719,2025-04-12,Income,Salary,Monthly,287.43,USD,Digital Wallet,Walmart,Lahore,Checking,2000,1296.98,5000,Completed,Sample record
+PF000720,2025-05-08,Expense,Shopping,Clothing,346.33,USD,Cash,Employer,New York,Savings,2000,1568.54,5000,Completed,Sample record
+PF000721,2025-03-13,Expense,Bills,Utilities,270.11,USD,Digital Wallet,Uber,Toronto,Savings,2000,688.84,5000,Pending,Sample record
+PF000722,2025-10-16,Expense,Bills,Utilities,238.17,USD,Cash,Uber,Lahore,Checking,2000,1106.39,5000,Pending,Sample record
+PF000723,2025-03-04,Income,Salary,Monthly,97.63,USD,Credit Card,Amazon,Sydney,Savings,2000,393.07,5000,Completed,Sample record
+PF000724,2025-10-13,Expense,Bills,Utilities,200.98,USD,Debit Card,Local Store,New York,Savings,2000,1482.0,5000,Completed,Sample record
+PF000725,2025-09-19,Income,Salary,Monthly,108.15,USD,Digital Wallet,Amazon,Lahore,Checking,2000,1666.07,5000,Pending,Sample record
+PF000726,2025-12-07,Expense,Shopping,Clothing,457.54,USD,Cash,Employer,Sydney,Checking,2000,663.96,5000,Completed,Sample record
+PF000727,2025-09-21,Expense,Food,Restaurant,132.44,USD,Bank Transfer,Walmart,London,Credit,2000,586.79,5000,Completed,Sample record
+PF000728,2025-10-05,Expense,Bills,Utilities,120.51,USD,Credit Card,Walmart,London,Savings,2000,355.05,5000,Completed,Sample record
+PF000729,2025-10-14,Expense,Transport,Taxi,131.04,USD,Debit Card,Employer,Toronto,Checking,2000,710.87,5000,Pending,Sample record
+PF000730,2025-05-15,Expense,Shopping,Electronics,46.26,USD,Debit Card,Uber,Lahore,Checking,2000,363.71,5000,Completed,Sample record
+PF000731,2025-02-20,Expense,Shopping,Clothing,75.36,USD,Debit Card,Employer,Toronto,Checking,2000,406.99,5000,Pending,Sample record
+PF000732,2025-10-03,Expense,Food,Restaurant,86.43,USD,Cash,Employer,Toronto,Credit,2000,540.13,5000,Completed,Sample record
+PF000733,2025-10-12,Expense,Shopping,Clothing,444.53,USD,Debit Card,Uber,London,Credit,2000,1071.77,5000,Pending,Sample record
+PF000734,2025-06-24,Expense,Bills,Internet,255.86,USD,Digital Wallet,Walmart,New York,Credit,2000,1702.72,5000,Completed,Sample record
+PF000735,2025-12-06,Expense,Bills,Utilities,353.19,USD,Digital Wallet,Local Store,London,Credit,2000,344.25,5000,Pending,Sample record
+PF000736,2025-09-18,Expense,Shopping,Electronics,384.73,USD,Cash,Uber,London,Credit,2000,1164.36,5000,Pending,Sample record
+PF000737,2025-06-02,Expense,Shopping,Electronics,259.04,USD,Debit Card,Amazon,Sydney,Credit,2000,909.68,5000,Pending,Sample record
+PF000738,2025-04-23,Expense,Transport,Fuel,237.02,USD,Digital Wallet,Employer,Toronto,Savings,2000,1743.12,5000,Pending,Sample record
+PF000739,2025-08-28,Income,Salary,Monthly,254.05,USD,Cash,Amazon,London,Savings,2000,503.16,5000,Completed,Sample record
+PF000740,2025-02-21,Expense,Shopping,Electronics,450.35,USD,Debit Card,Employer,Toronto,Savings,2000,1589.03,5000,Completed,Sample record
+PF000741,2025-11-22,Expense,Food,Groceries,252.55,USD,Debit Card,Walmart,Toronto,Credit,2000,1125.98,5000,Completed,Sample record
+PF000742,2025-04-16,Expense,Transport,Fuel,25.11,USD,Digital Wallet,Employer,Toronto,Checking,2000,326.63,5000,Completed,Sample record
+PF000743,2025-03-16,Expense,Bills,Utilities,53.55,USD,Credit Card,Employer,Toronto,Checking,2000,375.3,5000,Completed,Sample record
+PF000744,2025-06-13,Expense,Shopping,Electronics,273.48,USD,Digital Wallet,Walmart,London,Savings,2000,1143.13,5000,Completed,Sample record
+PF000745,2025-05-15,Income,Salary,Monthly,159.96,USD,Credit Card,Amazon,New York,Credit,2000,911.99,5000,Completed,Sample record
+PF000746,2025-06-13,Expense,Bills,Utilities,215.21,USD,Digital Wallet,Uber,Lahore,Credit,2000,1238.29,5000,Pending,Sample record
+PF000747,2025-04-23,Expense,Transport,Taxi,219.57,USD,Digital Wallet,Local Store,New York,Savings,2000,1520.76,5000,Completed,Sample record
+PF000748,2025-06-07,Expense,Food,Restaurant,430.05,USD,Debit Card,Employer,Toronto,Credit,2000,1676.51,5000,Completed,Sample record
+PF000749,2025-01-08,Income,Salary,Monthly,310.92,USD,Credit Card,Employer,Toronto,Checking,2000,967.02,5000,Completed,Sample record
+PF000750,2025-04-05,Expense,Food,Restaurant,9.07,USD,Debit Card,Local Store,New York,Credit,2000,985.84,5000,Pending,Sample record
+PF000751,2025-03-03,Expense,Shopping,Electronics,212.71,USD,Digital Wallet,Employer,Sydney,Checking,2000,1239.31,5000,Pending,Sample record
+PF000752,2025-09-16,Expense,Food,Restaurant,204.98,USD,Bank Transfer,Walmart,New York,Credit,2000,563.9,5000,Pending,Sample record
+PF000753,2025-09-17,Income,Salary,Monthly,367.47,USD,Cash,Employer,Sydney,Checking,2000,655.88,5000,Completed,Sample record
+PF000754,2025-12-14,Expense,Shopping,Clothing,273.18,USD,Cash,Uber,London,Savings,2000,619.53,5000,Completed,Sample record
+PF000755,2025-09-13,Expense,Bills,Internet,237.0,USD,Debit Card,Employer,Lahore,Savings,2000,1690.91,5000,Pending,Sample record
+PF000756,2025-04-25,Expense,Food,Groceries,366.1,USD,Credit Card,Uber,Sydney,Savings,2000,1235.29,5000,Completed,Sample record
+PF000757,2025-01-26,Expense,Bills,Utilities,330.64,USD,Cash,Employer,Sydney,Credit,2000,1184.44,5000,Pending,Sample record
+PF000758,2025-07-14,Expense,Food,Groceries,18.38,USD,Bank Transfer,Local Store,Sydney,Savings,2000,353.77,5000,Pending,Sample record
+PF000759,2025-03-17,Income,Salary,Monthly,391.19,USD,Debit Card,Uber,New York,Savings,2000,755.23,5000,Completed,Sample record
+PF000760,2025-06-26,Expense,Transport,Fuel,274.21,USD,Bank Transfer,Employer,New York,Credit,2000,602.62,5000,Pending,Sample record
+PF000761,2025-05-18,Expense,Transport,Fuel,228.66,USD,Bank Transfer,Walmart,Lahore,Checking,2000,839.94,5000,Pending,Sample record
+PF000762,2025-11-12,Expense,Food,Groceries,346.1,USD,Cash,Walmart,Toronto,Credit,2000,346.47,5000,Pending,Sample record
+PF000763,2025-04-13,Expense,Shopping,Electronics,292.56,USD,Debit Card,Employer,Toronto,Savings,2000,831.64,5000,Pending,Sample record
+PF000764,2025-05-08,Income,Salary,Monthly,363.5,USD,Credit Card,Amazon,London,Credit,2000,1048.03,5000,Completed,Sample record
+PF000765,2025-04-15,Expense,Bills,Internet,459.6,USD,Credit Card,Walmart,Toronto,Checking,2000,1044.1,5000,Pending,Sample record
+PF000766,2025-02-18,Income,Salary,Monthly,235.91,USD,Bank Transfer,Employer,London,Checking,2000,407.14,5000,Completed,Sample record
+PF000767,2025-09-19,Expense,Shopping,Electronics,187.2,USD,Debit Card,Amazon,Sydney,Checking,2000,1489.7,5000,Completed,Sample record
+PF000768,2025-09-25,Expense,Transport,Taxi,330.25,USD,Credit Card,Uber,London,Checking,2000,1769.18,5000,Pending,Sample record
+PF000769,2025-05-18,Expense,Shopping,Clothing,403.8,USD,Digital Wallet,Uber,New York,Savings,2000,332.73,5000,Completed,Sample record
+PF000770,2025-11-01,Expense,Transport,Fuel,308.65,USD,Digital Wallet,Employer,Toronto,Credit,2000,226.39,5000,Completed,Sample record
+PF000771,2025-09-15,Expense,Bills,Utilities,17.62,USD,Cash,Amazon,Toronto,Savings,2000,1697.98,5000,Completed,Sample record
+PF000772,2025-06-10,Expense,Shopping,Clothing,165.79,USD,Bank Transfer,Local Store,Lahore,Credit,2000,955.73,5000,Pending,Sample record
+PF000773,2025-05-16,Expense,Food,Groceries,208.43,USD,Bank Transfer,Uber,Lahore,Savings,2000,1487.88,5000,Pending,Sample record
+PF000774,2025-07-22,Expense,Shopping,Clothing,357.09,USD,Digital Wallet,Local Store,Toronto,Checking,2000,1599.31,5000,Pending,Sample record
+PF000775,2025-03-06,Expense,Transport,Taxi,412.18,USD,Credit Card,Walmart,Lahore,Credit,2000,1499.53,5000,Completed,Sample record
+PF000776,2025-05-09,Expense,Bills,Utilities,258.59,USD,Cash,Uber,New York,Savings,2000,507.37,5000,Pending,Sample record
+PF000777,2025-12-09,Expense,Food,Groceries,41.64,USD,Cash,Employer,New York,Savings,2000,1114.09,5000,Pending,Sample record
+PF000778,2025-10-24,Expense,Transport,Fuel,181.31,USD,Digital Wallet,Local Store,London,Checking,2000,660.75,5000,Pending,Sample record
+PF000779,2025-02-14,Income,Salary,Monthly,353.83,USD,Cash,Amazon,Lahore,Checking,2000,894.23,5000,Pending,Sample record
+PF000780,2025-11-03,Expense,Food,Groceries,393.15,USD,Debit Card,Walmart,Lahore,Checking,2000,650.38,5000,Completed,Sample record
+PF000781,2025-01-27,Expense,Transport,Fuel,281.04,USD,Credit Card,Local Store,Lahore,Savings,2000,944.94,5000,Pending,Sample record
+PF000782,2025-06-20,Expense,Bills,Internet,236.76,USD,Bank Transfer,Amazon,Sydney,Savings,2000,1348.74,5000,Pending,Sample record
+PF000783,2025-03-19,Income,Salary,Monthly,232.43,USD,Bank Transfer,Employer,Toronto,Savings,2000,1164.69,5000,Completed,Sample record
+PF000784,2025-07-15,Expense,Bills,Internet,249.89,USD,Bank Transfer,Employer,London,Checking,2000,863.11,5000,Pending,Sample record
+PF000785,2025-02-27,Expense,Bills,Internet,101.36,USD,Credit Card,Local Store,New York,Savings,2000,1037.53,5000,Completed,Sample record
+PF000786,2025-07-21,Expense,Transport,Taxi,201.29,USD,Cash,Amazon,Toronto,Credit,2000,733.42,5000,Completed,Sample record
+PF000787,2025-07-25,Expense,Food,Groceries,60.85,USD,Bank Transfer,Employer,London,Credit,2000,304.03,5000,Pending,Sample record
+PF000788,2025-07-22,Expense,Bills,Internet,392.09,USD,Credit Card,Walmart,London,Checking,2000,500.45,5000,Completed,Sample record
+PF000789,2025-12-17,Expense,Shopping,Clothing,230.77,USD,Digital Wallet,Amazon,New York,Credit,2000,1114.73,5000,Pending,Sample record
+PF000790,2025-01-17,Expense,Bills,Internet,308.88,USD,Digital Wallet,Amazon,Sydney,Savings,2000,1437.24,5000,Pending,Sample record
+PF000791,2025-10-16,Expense,Shopping,Electronics,475.05,USD,Bank Transfer,Employer,New York,Checking,2000,1230.82,5000,Pending,Sample record
+PF000792,2025-11-03,Expense,Food,Groceries,162.99,USD,Cash,Uber,New York,Credit,2000,915.91,5000,Completed,Sample record
+PF000793,2025-07-20,Expense,Shopping,Clothing,106.16,USD,Cash,Walmart,Toronto,Savings,2000,1574.81,5000,Pending,Sample record
+PF000794,2025-02-28,Expense,Shopping,Clothing,388.43,USD,Credit Card,Amazon,Lahore,Credit,2000,314.61,5000,Pending,Sample record
+PF000795,2025-12-07,Expense,Transport,Taxi,168.87,USD,Debit Card,Walmart,Lahore,Savings,2000,1750.6,5000,Completed,Sample record
+PF000796,2025-03-06,Income,Salary,Monthly,69.88,USD,Bank Transfer,Walmart,Toronto,Credit,2000,403.46,5000,Pending,Sample record
+PF000797,2025-03-04,Expense,Food,Groceries,20.48,USD,Debit Card,Walmart,Toronto,Savings,2000,1694.49,5000,Pending,Sample record
+PF000798,2025-06-09,Expense,Food,Restaurant,217.29,USD,Digital Wallet,Uber,Lahore,Credit,2000,616.98,5000,Completed,Sample record
+PF000799,2025-02-23,Expense,Bills,Utilities,260.52,USD,Credit Card,Local Store,Toronto,Checking,2000,780.26,5000,Pending,Sample record
+PF000800,2025-05-12,Expense,Food,Groceries,385.39,USD,Credit Card,Employer,New York,Savings,2000,1234.01,5000,Completed,Sample record
+PF000801,2025-03-17,Expense,Bills,Utilities,125.71,USD,Digital Wallet,Uber,New York,Checking,2000,858.29,5000,Completed,Sample record
+PF000802,2025-11-06,Expense,Transport,Fuel,295.57,USD,Bank Transfer,Employer,London,Savings,2000,1516.96,5000,Completed,Sample record
+PF000803,2025-05-10,Expense,Shopping,Clothing,424.91,USD,Debit Card,Local Store,New York,Savings,2000,1730.31,5000,Pending,Sample record
+PF000804,2025-10-01,Income,Salary,Monthly,378.77,USD,Digital Wallet,Local Store,London,Credit,2000,350.26,5000,Pending,Sample record
+PF000805,2025-03-04,Expense,Bills,Internet,475.58,USD,Digital Wallet,Uber,Toronto,Checking,2000,813.66,5000,Pending,Sample record
+PF000806,2025-07-03,Expense,Food,Restaurant,273.05,USD,Cash,Employer,New York,Credit,2000,994.35,5000,Pending,Sample record
+PF000807,2025-12-20,Expense,Food,Restaurant,432.84,USD,Cash,Local Store,New York,Checking,2000,1660.82,5000,Completed,Sample record
+PF000808,2025-06-22,Expense,Food,Restaurant,464.5,USD,Credit Card,Employer,New York,Savings,2000,1115.76,5000,Pending,Sample record
+PF000809,2025-09-06,Expense,Bills,Utilities,419.83,USD,Cash,Walmart,Sydney,Checking,2000,391.78,5000,Completed,Sample record
+PF000810,2025-05-05,Expense,Food,Groceries,347.24,USD,Cash,Uber,Toronto,Checking,2000,796.2,5000,Pending,Sample record
+PF000811,2025-10-02,Expense,Transport,Taxi,437.57,USD,Bank Transfer,Walmart,Sydney,Checking,2000,1112.01,5000,Pending,Sample record
+PF000812,2025-08-21,Expense,Transport,Taxi,190.9,USD,Debit Card,Amazon,Lahore,Checking,2000,765.66,5000,Completed,Sample record
+PF000813,2025-03-25,Expense,Food,Restaurant,308.07,USD,Credit Card,Walmart,Sydney,Credit,2000,1121.94,5000,Pending,Sample record
+PF000814,2025-09-06,Expense,Shopping,Clothing,399.61,USD,Digital Wallet,Local Store,New York,Savings,2000,1138.06,5000,Pending,Sample record
+PF000815,2025-02-14,Income,Salary,Monthly,280.8,USD,Debit Card,Amazon,Sydney,Checking,2000,979.3,5000,Completed,Sample record
+PF000816,2025-02-17,Expense,Transport,Taxi,374.33,USD,Debit Card,Walmart,Lahore,Checking,2000,880.74,5000,Pending,Sample record
+PF000817,2025-05-12,Income,Salary,Monthly,156.65,USD,Digital Wallet,Uber,Lahore,Credit,2000,1283.44,5000,Pending,Sample record
+PF000818,2025-07-12,Expense,Food,Restaurant,210.11,USD,Bank Transfer,Walmart,New York,Checking,2000,1176.67,5000,Completed,Sample record
+PF000819,2025-07-20,Expense,Bills,Utilities,271.68,USD,Digital Wallet,Employer,Toronto,Savings,2000,419.79,5000,Pending,Sample record
+PF000820,2025-10-19,Expense,Shopping,Electronics,39.72,USD,Credit Card,Uber,Lahore,Savings,2000,617.37,5000,Completed,Sample record
+PF000821,2025-06-18,Expense,Shopping,Electronics,253.91,USD,Cash,Walmart,Toronto,Credit,2000,793.42,5000,Pending,Sample record
+PF000822,2025-11-23,Expense,Shopping,Electronics,188.35,USD,Cash,Walmart,London,Checking,2000,1406.0,5000,Completed,Sample record
+PF000823,2025-06-22,Income,Salary,Monthly,149.95,USD,Digital Wallet,Local Store,Toronto,Credit,2000,1325.81,5000,Pending,Sample record
+PF000824,2025-11-17,Expense,Bills,Utilities,398.71,USD,Credit Card,Local Store,New York,Checking,2000,1407.84,5000,Completed,Sample record
+PF000825,2025-12-16,Expense,Food,Restaurant,437.4,USD,Cash,Walmart,London,Savings,2000,806.13,5000,Pending,Sample record
+PF000826,2025-03-06,Expense,Transport,Fuel,221.06,USD,Bank Transfer,Local Store,London,Credit,2000,685.98,5000,Pending,Sample record
+PF000827,2025-07-22,Expense,Food,Groceries,133.31,USD,Debit Card,Employer,Sydney,Checking,2000,1741.33,5000,Completed,Sample record
+PF000828,2025-10-09,Expense,Bills,Utilities,385.73,USD,Credit Card,Uber,Lahore,Credit,2000,437.16,5000,Pending,Sample record
+PF000829,2025-09-01,Expense,Bills,Utilities,492.35,USD,Credit Card,Walmart,London,Checking,2000,1615.95,5000,Pending,Sample record
+PF000830,2025-03-19,Expense,Food,Restaurant,263.21,USD,Cash,Walmart,London,Savings,2000,444.24,5000,Completed,Sample record
+PF000831,2025-06-06,Expense,Food,Groceries,471.59,USD,Credit Card,Amazon,Sydney,Savings,2000,1686.54,5000,Pending,Sample record
+PF000832,2025-12-09,Expense,Food,Restaurant,148.74,USD,Debit Card,Local Store,Toronto,Checking,2000,309.28,5000,Pending,Sample record
+PF000833,2025-10-14,Expense,Transport,Taxi,276.21,USD,Digital Wallet,Uber,New York,Savings,2000,1261.81,5000,Pending,Sample record
+PF000834,2025-09-07,Expense,Shopping,Electronics,146.85,USD,Cash,Local Store,London,Savings,2000,1063.42,5000,Pending,Sample record
+PF000835,2025-02-23,Expense,Food,Restaurant,168.19,USD,Digital Wallet,Local Store,New York,Checking,2000,556.71,5000,Pending,Sample record
+PF000836,2025-04-18,Income,Salary,Monthly,309.47,USD,Digital Wallet,Employer,Toronto,Checking,2000,1269.8,5000,Completed,Sample record
+PF000837,2025-07-09,Expense,Shopping,Electronics,273.17,USD,Digital Wallet,Local Store,New York,Checking,2000,960.84,5000,Completed,Sample record
+PF000838,2025-12-23,Expense,Food,Restaurant,449.54,USD,Debit Card,Uber,London,Savings,2000,1336.98,5000,Completed,Sample record
+PF000839,2025-07-24,Expense,Bills,Internet,289.92,USD,Cash,Amazon,Sydney,Savings,2000,1573.41,5000,Completed,Sample record
+PF000840,2025-08-20,Income,Salary,Monthly,127.83,USD,Debit Card,Walmart,Sydney,Savings,2000,1705.39,5000,Completed,Sample record
+PF000841,2025-02-28,Expense,Bills,Utilities,407.31,USD,Bank Transfer,Local Store,Lahore,Checking,2000,730.66,5000,Completed,Sample record
+PF000842,2025-10-08,Income,Salary,Monthly,401.01,USD,Cash,Local Store,Toronto,Credit,2000,1632.39,5000,Pending,Sample record
+PF000843,2025-04-22,Expense,Bills,Internet,438.03,USD,Bank Transfer,Employer,Sydney,Checking,2000,1192.52,5000,Completed,Sample record
+PF000844,2025-08-25,Expense,Transport,Taxi,60.69,USD,Cash,Employer,Lahore,Checking,2000,879.73,5000,Completed,Sample record
+PF000845,2025-05-23,Income,Salary,Monthly,14.18,USD,Debit Card,Amazon,Toronto,Credit,2000,836.54,5000,Completed,Sample record
+PF000846,2025-03-16,Expense,Shopping,Electronics,162.4,USD,Bank Transfer,Employer,Toronto,Checking,2000,282.58,5000,Pending,Sample record
+PF000847,2025-08-21,Expense,Bills,Utilities,178.96,USD,Cash,Employer,New York,Credit,2000,1096.61,5000,Pending,Sample record
+PF000848,2025-09-14,Expense,Shopping,Electronics,54.62,USD,Cash,Uber,Toronto,Savings,2000,543.51,5000,Completed,Sample record
+PF000849,2025-05-24,Expense,Food,Groceries,102.57,USD,Cash,Local Store,Sydney,Checking,2000,1718.56,5000,Pending,Sample record
+PF000850,2025-05-15,Expense,Transport,Fuel,132.16,USD,Digital Wallet,Amazon,Lahore,Savings,2000,702.39,5000,Pending,Sample record
+PF000851,2025-01-28,Expense,Food,Restaurant,75.06,USD,Debit Card,Uber,New York,Checking,2000,1292.09,5000,Completed,Sample record
+PF000852,2025-06-03,Income,Salary,Monthly,359.63,USD,Bank Transfer,Employer,Lahore,Savings,2000,344.71,5000,Completed,Sample record
+PF000853,2025-05-04,Income,Salary,Monthly,494.04,USD,Cash,Uber,Sydney,Credit,2000,344.8,5000,Pending,Sample record
+PF000854,2025-11-04,Expense,Shopping,Electronics,304.85,USD,Credit Card,Employer,Lahore,Checking,2000,1105.44,5000,Pending,Sample record
+PF000855,2025-01-14,Expense,Food,Restaurant,21.46,USD,Debit Card,Uber,Lahore,Credit,2000,355.61,5000,Completed,Sample record
+PF000856,2025-04-01,Expense,Transport,Taxi,151.48,USD,Bank Transfer,Uber,Toronto,Credit,2000,575.09,5000,Completed,Sample record
+PF000857,2025-07-09,Expense,Shopping,Electronics,166.65,USD,Debit Card,Uber,New York,Checking,2000,1649.51,5000,Completed,Sample record
+PF000858,2025-04-24,Expense,Transport,Fuel,252.88,USD,Bank Transfer,Local Store,Lahore,Credit,2000,961.21,5000,Completed,Sample record
+PF000859,2025-07-25,Expense,Bills,Utilities,89.83,USD,Credit Card,Employer,New York,Credit,2000,1741.3,5000,Pending,Sample record
+PF000860,2025-12-28,Expense,Shopping,Electronics,166.14,USD,Digital Wallet,Walmart,London,Credit,2000,645.36,5000,Completed,Sample record
+PF000861,2025-10-11,Expense,Food,Restaurant,326.75,USD,Debit Card,Uber,Sydney,Checking,2000,1002.51,5000,Pending,Sample record
+PF000862,2025-04-02,Income,Salary,Monthly,492.45,USD,Cash,Local Store,Sydney,Credit,2000,756.35,5000,Completed,Sample record
+PF000863,2025-08-18,Income,Salary,Monthly,105.04,USD,Bank Transfer,Employer,Toronto,Checking,2000,587.07,5000,Completed,Sample record
+PF000864,2025-05-15,Income,Salary,Monthly,276.48,USD,Digital Wallet,Local Store,London,Credit,2000,507.71,5000,Pending,Sample record
+PF000865,2025-06-13,Income,Salary,Monthly,338.25,USD,Cash,Employer,Lahore,Credit,2000,764.2,5000,Pending,Sample record
+PF000866,2025-06-05,Expense,Bills,Utilities,470.55,USD,Bank Transfer,Walmart,Lahore,Credit,2000,247.69,5000,Completed,Sample record
+PF000867,2025-04-11,Expense,Bills,Utilities,329.46,USD,Debit Card,Walmart,New York,Savings,2000,893.1,5000,Pending,Sample record
+PF000868,2025-12-17,Income,Salary,Monthly,315.03,USD,Bank Transfer,Walmart,Sydney,Savings,2000,396.35,5000,Pending,Sample record
+PF000869,2025-07-28,Expense,Bills,Utilities,477.7,USD,Credit Card,Employer,Lahore,Savings,2000,201.5,5000,Completed,Sample record
+PF000870,2025-03-05,Expense,Food,Restaurant,283.88,USD,Bank Transfer,Walmart,Lahore,Credit,2000,1012.84,5000,Pending,Sample record
+PF000871,2025-02-14,Expense,Transport,Taxi,53.71,USD,Cash,Uber,Toronto,Credit,2000,657.88,5000,Completed,Sample record
+PF000872,2025-06-14,Expense,Shopping,Clothing,218.64,USD,Digital Wallet,Local Store,Sydney,Credit,2000,1212.28,5000,Pending,Sample record
+PF000873,2025-12-20,Expense,Bills,Utilities,85.87,USD,Cash,Employer,Lahore,Credit,2000,1441.98,5000,Pending,Sample record
+PF000874,2025-07-13,Expense,Transport,Taxi,272.17,USD,Debit Card,Uber,Sydney,Credit,2000,1459.34,5000,Completed,Sample record
+PF000875,2025-05-15,Expense,Bills,Internet,488.9,USD,Digital Wallet,Employer,New York,Checking,2000,521.57,5000,Pending,Sample record
+PF000876,2025-06-18,Expense,Food,Restaurant,216.31,USD,Debit Card,Amazon,New York,Savings,2000,1261.32,5000,Completed,Sample record
+PF000877,2025-11-08,Expense,Transport,Fuel,365.91,USD,Credit Card,Walmart,Toronto,Credit,2000,1771.12,5000,Completed,Sample record
+PF000878,2025-12-03,Expense,Food,Restaurant,277.67,USD,Debit Card,Uber,Lahore,Savings,2000,1092.6,5000,Pending,Sample record
+PF000879,2025-10-02,Expense,Shopping,Clothing,63.66,USD,Debit Card,Walmart,London,Credit,2000,1331.18,5000,Completed,Sample record
+PF000880,2025-03-10,Expense,Food,Restaurant,417.57,USD,Digital Wallet,Employer,Toronto,Checking,2000,1407.66,5000,Completed,Sample record
+PF000881,2025-01-17,Expense,Bills,Utilities,256.57,USD,Debit Card,Employer,London,Checking,2000,1583.37,5000,Pending,Sample record
+PF000882,2025-03-25,Expense,Food,Groceries,267.1,USD,Bank Transfer,Amazon,London,Credit,2000,571.73,5000,Pending,Sample record
+PF000883,2025-04-08,Expense,Transport,Fuel,312.03,USD,Credit Card,Local Store,London,Savings,2000,1469.61,5000,Pending,Sample record
+PF000884,2025-03-07,Expense,Food,Groceries,464.93,USD,Debit Card,Amazon,Lahore,Credit,2000,438.74,5000,Completed,Sample record
+PF000885,2025-03-03,Expense,Transport,Taxi,224.67,USD,Bank Transfer,Uber,Sydney,Checking,2000,202.87,5000,Completed,Sample record
+PF000886,2025-07-19,Expense,Transport,Taxi,40.37,USD,Debit Card,Local Store,Toronto,Credit,2000,599.08,5000,Completed,Sample record
+PF000887,2025-10-14,Expense,Bills,Utilities,110.16,USD,Cash,Employer,London,Credit,2000,384.18,5000,Completed,Sample record
+PF000888,2025-09-28,Expense,Transport,Fuel,143.31,USD,Bank Transfer,Amazon,Sydney,Savings,2000,1483.0,5000,Completed,Sample record
+PF000889,2025-12-18,Expense,Transport,Taxi,125.74,USD,Digital Wallet,Walmart,New York,Checking,2000,534.92,5000,Completed,Sample record
+PF000890,2025-11-06,Expense,Shopping,Electronics,363.38,USD,Credit Card,Local Store,Lahore,Savings,2000,749.75,5000,Completed,Sample record
+PF000891,2025-05-21,Expense,Shopping,Clothing,405.41,USD,Debit Card,Employer,New York,Checking,2000,253.36,5000,Pending,Sample record
+PF000892,2025-11-13,Income,Salary,Monthly,292.13,USD,Digital Wallet,Walmart,Lahore,Checking,2000,205.92,5000,Completed,Sample record
+PF000893,2025-01-19,Expense,Shopping,Electronics,230.82,USD,Digital Wallet,Walmart,Sydney,Savings,2000,1222.16,5000,Completed,Sample record
+PF000894,2025-02-24,Expense,Food,Groceries,32.87,USD,Bank Transfer,Walmart,Sydney,Credit,2000,1034.25,5000,Completed,Sample record
+PF000895,2025-10-02,Expense,Transport,Taxi,463.47,USD,Cash,Employer,Lahore,Savings,2000,1316.56,5000,Completed,Sample record
+PF000896,2025-11-19,Expense,Bills,Internet,365.67,USD,Bank Transfer,Walmart,Lahore,Credit,2000,1310.8,5000,Pending,Sample record
+PF000897,2025-01-06,Expense,Bills,Internet,345.13,USD,Cash,Walmart,Toronto,Savings,2000,1378.21,5000,Pending,Sample record
+PF000898,2025-02-07,Expense,Shopping,Clothing,40.02,USD,Cash,Uber,London,Checking,2000,1534.97,5000,Pending,Sample record
+PF000899,2025-04-25,Expense,Food,Restaurant,426.82,USD,Credit Card,Amazon,Lahore,Checking,2000,841.62,5000,Completed,Sample record
+PF000900,2025-04-09,Expense,Shopping,Clothing,313.33,USD,Cash,Walmart,Toronto,Credit,2000,464.88,5000,Pending,Sample record
+PF000901,2025-07-05,Expense,Transport,Fuel,5.76,USD,Debit Card,Amazon,Toronto,Checking,2000,873.91,5000,Completed,Sample record
+PF000902,2025-01-23,Expense,Transport,Taxi,402.96,USD,Debit Card,Amazon,New York,Credit,2000,238.13,5000,Pending,Sample record
+PF000903,2025-11-24,Expense,Transport,Fuel,426.95,USD,Debit Card,Local Store,Toronto,Checking,2000,295.3,5000,Pending,Sample record
+PF000904,2025-04-22,Expense,Bills,Utilities,312.51,USD,Cash,Local Store,Toronto,Savings,2000,1638.2,5000,Pending,Sample record
+PF000905,2025-06-14,Expense,Shopping,Electronics,395.26,USD,Cash,Uber,Sydney,Savings,2000,706.47,5000,Completed,Sample record
+PF000906,2025-07-25,Expense,Transport,Fuel,18.52,USD,Debit Card,Walmart,New York,Savings,2000,246.58,5000,Completed,Sample record
+PF000907,2025-12-06,Expense,Transport,Taxi,322.16,USD,Bank Transfer,Amazon,Sydney,Savings,2000,1308.36,5000,Completed,Sample record
+PF000908,2025-09-05,Expense,Bills,Utilities,198.96,USD,Bank Transfer,Employer,London,Savings,2000,352.4,5000,Completed,Sample record
+PF000909,2025-07-07,Expense,Bills,Utilities,177.0,USD,Bank Transfer,Local Store,Lahore,Credit,2000,1261.64,5000,Pending,Sample record
+PF000910,2025-03-16,Expense,Food,Restaurant,168.82,USD,Digital Wallet,Uber,Lahore,Savings,2000,735.29,5000,Completed,Sample record
+PF000911,2025-04-01,Expense,Food,Restaurant,105.43,USD,Debit Card,Uber,Lahore,Savings,2000,887.56,5000,Completed,Sample record
+PF000912,2025-09-15,Expense,Shopping,Clothing,414.74,USD,Digital Wallet,Uber,Lahore,Checking,2000,742.07,5000,Completed,Sample record
+PF000913,2025-03-26,Expense,Shopping,Clothing,56.92,USD,Debit Card,Uber,Lahore,Savings,2000,1790.16,5000,Completed,Sample record
+PF000914,2025-02-19,Income,Salary,Monthly,448.96,USD,Credit Card,Amazon,Toronto,Savings,2000,1255.23,5000,Pending,Sample record
+PF000915,2025-11-28,Expense,Shopping,Clothing,272.11,USD,Bank Transfer,Amazon,London,Savings,2000,1593.67,5000,Pending,Sample record
+PF000916,2025-07-16,Expense,Food,Restaurant,322.19,USD,Digital Wallet,Walmart,Lahore,Credit,2000,818.2,5000,Completed,Sample record
+PF000917,2025-08-16,Expense,Bills,Utilities,112.9,USD,Cash,Employer,Toronto,Credit,2000,1204.47,5000,Pending,Sample record
+PF000918,2025-11-26,Expense,Bills,Utilities,10.58,USD,Cash,Amazon,New York,Credit,2000,1129.11,5000,Pending,Sample record
+PF000919,2025-06-18,Expense,Bills,Utilities,208.77,USD,Debit Card,Walmart,Toronto,Checking,2000,518.91,5000,Pending,Sample record
+PF000920,2025-08-20,Expense,Bills,Utilities,474.45,USD,Digital Wallet,Amazon,London,Checking,2000,1005.28,5000,Pending,Sample record
+PF000921,2025-04-12,Income,Salary,Monthly,111.59,USD,Bank Transfer,Local Store,London,Credit,2000,1419.01,5000,Completed,Sample record
+PF000922,2025-05-10,Expense,Food,Restaurant,466.65,USD,Debit Card,Uber,Lahore,Savings,2000,1031.0,5000,Pending,Sample record
+PF000923,2025-03-26,Expense,Transport,Fuel,136.13,USD,Digital Wallet,Employer,Toronto,Credit,2000,1706.11,5000,Pending,Sample record
+PF000924,2025-09-06,Expense,Bills,Utilities,328.66,USD,Cash,Uber,Sydney,Credit,2000,1321.54,5000,Completed,Sample record
+PF000925,2025-04-02,Income,Salary,Monthly,294.52,USD,Digital Wallet,Walmart,London,Checking,2000,361.1,5000,Pending,Sample record
+PF000926,2025-03-03,Expense,Food,Groceries,318.29,USD,Bank Transfer,Uber,Lahore,Savings,2000,1305.92,5000,Completed,Sample record
+PF000927,2025-05-06,Expense,Shopping,Clothing,24.95,USD,Credit Card,Walmart,Toronto,Credit,2000,254.66,5000,Pending,Sample record
+PF000928,2025-06-12,Expense,Transport,Fuel,202.11,USD,Credit Card,Amazon,Lahore,Checking,2000,1259.13,5000,Completed,Sample record
+PF000929,2025-08-09,Expense,Transport,Fuel,328.14,USD,Bank Transfer,Uber,Toronto,Credit,2000,1175.83,5000,Pending,Sample record
+PF000930,2025-06-24,Income,Salary,Monthly,135.77,USD,Bank Transfer,Uber,Lahore,Checking,2000,909.05,5000,Pending,Sample record
+PF000931,2025-08-15,Expense,Food,Groceries,281.44,USD,Bank Transfer,Uber,Lahore,Checking,2000,1395.67,5000,Completed,Sample record
+PF000932,2025-01-10,Income,Salary,Monthly,27.48,USD,Digital Wallet,Local Store,London,Checking,2000,300.08,5000,Completed,Sample record
+PF000933,2025-06-20,Expense,Food,Restaurant,186.39,USD,Bank Transfer,Local Store,Toronto,Credit,2000,567.48,5000,Pending,Sample record
+PF000934,2025-09-22,Expense,Transport,Taxi,242.55,USD,Cash,Walmart,Toronto,Checking,2000,1477.73,5000,Completed,Sample record
+PF000935,2025-06-21,Income,Salary,Monthly,182.97,USD,Cash,Uber,Toronto,Credit,2000,1591.2,5000,Pending,Sample record
+PF000936,2025-07-23,Expense,Bills,Internet,47.05,USD,Digital Wallet,Local Store,Sydney,Credit,2000,1613.0,5000,Pending,Sample record
+PF000937,2025-04-26,Income,Salary,Monthly,181.78,USD,Credit Card,Amazon,Toronto,Checking,2000,404.18,5000,Pending,Sample record
+PF000938,2025-06-27,Expense,Shopping,Electronics,200.54,USD,Credit Card,Walmart,Lahore,Savings,2000,1674.56,5000,Completed,Sample record
+PF000939,2025-03-18,Expense,Transport,Fuel,237.13,USD,Debit Card,Amazon,Toronto,Checking,2000,888.35,5000,Pending,Sample record
+PF000940,2025-06-22,Expense,Shopping,Clothing,33.8,USD,Digital Wallet,Employer,New York,Savings,2000,583.72,5000,Pending,Sample record
+PF000941,2025-11-05,Income,Salary,Monthly,110.14,USD,Credit Card,Amazon,Sydney,Savings,2000,1239.08,5000,Pending,Sample record
+PF000942,2025-11-05,Income,Salary,Monthly,58.96,USD,Digital Wallet,Amazon,New York,Savings,2000,1349.21,5000,Pending,Sample record
+PF000943,2025-12-05,Expense,Food,Groceries,410.27,USD,Cash,Uber,Sydney,Checking,2000,1689.17,5000,Pending,Sample record
+PF000944,2025-10-08,Expense,Shopping,Clothing,112.29,USD,Bank Transfer,Walmart,Lahore,Checking,2000,808.42,5000,Completed,Sample record
+PF000945,2025-07-27,Expense,Shopping,Electronics,173.91,USD,Cash,Walmart,Lahore,Savings,2000,1671.36,5000,Completed,Sample record
+PF000946,2025-09-08,Expense,Food,Groceries,210.49,USD,Bank Transfer,Amazon,New York,Credit,2000,1211.14,5000,Completed,Sample record
+PF000947,2025-08-22,Expense,Bills,Utilities,162.32,USD,Credit Card,Employer,London,Checking,2000,1330.5,5000,Pending,Sample record
+PF000948,2025-04-26,Expense,Transport,Fuel,285.12,USD,Cash,Employer,London,Credit,2000,1638.22,5000,Completed,Sample record
+PF000949,2025-07-22,Expense,Food,Groceries,479.33,USD,Debit Card,Amazon,Toronto,Savings,2000,1764.83,5000,Pending,Sample record
+PF000950,2025-06-24,Expense,Shopping,Electronics,66.34,USD,Digital Wallet,Walmart,Lahore,Credit,2000,534.28,5000,Completed,Sample record
+PF000951,2025-04-26,Expense,Bills,Utilities,128.5,USD,Bank Transfer,Walmart,Lahore,Checking,2000,557.27,5000,Completed,Sample record
+PF000952,2025-04-11,Income,Salary,Monthly,276.75,USD,Digital Wallet,Employer,Toronto,Credit,2000,844.04,5000,Pending,Sample record
+PF000953,2025-11-06,Expense,Bills,Utilities,244.08,USD,Bank Transfer,Local Store,Lahore,Savings,2000,1135.15,5000,Pending,Sample record
+PF000954,2025-07-25,Expense,Shopping,Electronics,267.81,USD,Debit Card,Local Store,Sydney,Checking,2000,482.37,5000,Completed,Sample record
+PF000955,2025-08-11,Expense,Shopping,Electronics,211.18,USD,Cash,Walmart,Sydney,Credit,2000,1678.43,5000,Completed,Sample record
+PF000956,2025-10-12,Expense,Transport,Fuel,426.59,USD,Bank Transfer,Local Store,London,Savings,2000,1093.07,5000,Pending,Sample record
+PF000957,2025-10-17,Expense,Food,Groceries,44.27,USD,Bank Transfer,Amazon,Lahore,Savings,2000,994.96,5000,Pending,Sample record
+PF000958,2025-10-27,Expense,Bills,Internet,256.64,USD,Cash,Walmart,Toronto,Credit,2000,1376.37,5000,Completed,Sample record
+PF000959,2025-01-06,Expense,Bills,Utilities,225.09,USD,Digital Wallet,Walmart,London,Savings,2000,1738.09,5000,Completed,Sample record
+PF000960,2025-12-26,Income,Salary,Monthly,408.92,USD,Cash,Employer,New York,Credit,2000,1476.39,5000,Pending,Sample record
+PF000961,2025-01-13,Expense,Bills,Utilities,258.12,USD,Digital Wallet,Uber,Toronto,Credit,2000,294.27,5000,Pending,Sample record
+PF000962,2025-02-14,Expense,Bills,Utilities,384.88,USD,Cash,Local Store,Toronto,Credit,2000,376.61,5000,Pending,Sample record
+PF000963,2025-10-20,Expense,Bills,Internet,75.29,USD,Cash,Walmart,London,Checking,2000,947.37,5000,Pending,Sample record
+PF000964,2025-07-22,Expense,Food,Groceries,131.06,USD,Debit Card,Uber,London,Checking,2000,654.4,5000,Completed,Sample record
+PF000965,2025-01-15,Expense,Transport,Taxi,378.66,USD,Bank Transfer,Amazon,Lahore,Savings,2000,1272.73,5000,Completed,Sample record
+PF000966,2025-05-15,Income,Salary,Monthly,452.09,USD,Credit Card,Amazon,Lahore,Savings,2000,1169.85,5000,Completed,Sample record
+PF000967,2025-05-23,Expense,Food,Groceries,474.88,USD,Bank Transfer,Local Store,Lahore,Credit,2000,895.94,5000,Pending,Sample record
+PF000968,2025-01-05,Expense,Bills,Internet,285.63,USD,Credit Card,Amazon,London,Credit,2000,239.08,5000,Completed,Sample record
+PF000969,2025-12-15,Income,Salary,Monthly,284.95,USD,Digital Wallet,Walmart,New York,Checking,2000,833.2,5000,Pending,Sample record
+PF000970,2025-04-06,Income,Salary,Monthly,129.02,USD,Credit Card,Walmart,Toronto,Savings,2000,799.91,5000,Completed,Sample record
+PF000971,2025-01-11,Income,Salary,Monthly,271.0,USD,Bank Transfer,Amazon,Toronto,Checking,2000,969.75,5000,Completed,Sample record
+PF000972,2025-01-09,Expense,Shopping,Electronics,315.2,USD,Cash,Walmart,London,Checking,2000,1552.94,5000,Completed,Sample record
+PF000973,2025-03-11,Expense,Food,Restaurant,44.44,USD,Cash,Local Store,London,Credit,2000,1617.33,5000,Pending,Sample record
+PF000974,2025-12-21,Expense,Bills,Utilities,465.5,USD,Digital Wallet,Local Store,Sydney,Credit,2000,1726.94,5000,Pending,Sample record
+PF000975,2025-07-28,Expense,Shopping,Clothing,455.82,USD,Credit Card,Walmart,Toronto,Checking,2000,575.9,5000,Pending,Sample record
+PF000976,2025-07-27,Expense,Shopping,Clothing,492.77,USD,Debit Card,Employer,New York,Checking,2000,813.69,5000,Completed,Sample record
+PF000977,2025-10-08,Expense,Shopping,Clothing,171.33,USD,Cash,Employer,Lahore,Credit,2000,503.92,5000,Pending,Sample record
+PF000978,2025-11-04,Expense,Bills,Internet,260.57,USD,Cash,Walmart,London,Checking,2000,784.75,5000,Pending,Sample record
+PF000979,2025-09-10,Expense,Transport,Taxi,73.83,USD,Digital Wallet,Walmart,London,Savings,2000,1656.02,5000,Completed,Sample record
+PF000980,2025-04-19,Expense,Transport,Fuel,276.26,USD,Debit Card,Walmart,Lahore,Checking,2000,387.81,5000,Pending,Sample record
+PF000981,2025-11-16,Income,Salary,Monthly,134.1,USD,Bank Transfer,Employer,New York,Savings,2000,1419.97,5000,Pending,Sample record
+PF000982,2025-10-12,Expense,Transport,Taxi,9.71,USD,Debit Card,Uber,London,Savings,2000,1537.73,5000,Pending,Sample record
+PF000983,2025-02-11,Expense,Shopping,Clothing,483.04,USD,Credit Card,Walmart,Sydney,Savings,2000,1508.59,5000,Pending,Sample record
+PF000984,2025-03-21,Income,Salary,Monthly,492.68,USD,Bank Transfer,Amazon,New York,Credit,2000,1324.38,5000,Completed,Sample record
+PF000985,2025-02-27,Expense,Transport,Taxi,197.8,USD,Digital Wallet,Amazon,Toronto,Credit,2000,758.7,5000,Completed,Sample record
+PF000986,2025-04-13,Expense,Transport,Fuel,372.06,USD,Digital Wallet,Uber,Sydney,Savings,2000,1110.55,5000,Pending,Sample record
+PF000987,2025-05-26,Expense,Transport,Taxi,164.57,USD,Cash,Walmart,Toronto,Checking,2000,1691.42,5000,Completed,Sample record
+PF000988,2025-07-14,Expense,Transport,Fuel,471.48,USD,Cash,Uber,Sydney,Credit,2000,332.92,5000,Pending,Sample record
+PF000989,2025-10-14,Income,Salary,Monthly,45.14,USD,Debit Card,Employer,Toronto,Savings,2000,809.54,5000,Completed,Sample record
+PF000990,2025-06-04,Income,Salary,Monthly,38.69,USD,Cash,Employer,New York,Checking,2000,1329.45,5000,Completed,Sample record
+PF000991,2025-04-07,Expense,Shopping,Electronics,359.06,USD,Cash,Uber,New York,Savings,2000,1056.43,5000,Pending,Sample record
+PF000992,2025-11-09,Expense,Food,Groceries,231.9,USD,Cash,Local Store,Lahore,Savings,2000,744.77,5000,Pending,Sample record
+PF000993,2025-03-04,Expense,Shopping,Electronics,326.21,USD,Bank Transfer,Uber,Lahore,Credit,2000,1040.08,5000,Pending,Sample record
+PF000994,2025-08-26,Expense,Food,Restaurant,215.57,USD,Cash,Uber,Lahore,Credit,2000,1371.49,5000,Completed,Sample record
+PF000995,2025-11-17,Expense,Transport,Fuel,471.28,USD,Bank Transfer,Employer,Sydney,Checking,2000,1571.26,5000,Completed,Sample record
+PF000996,2025-01-20,Expense,Bills,Internet,393.81,USD,Credit Card,Walmart,London,Savings,2000,1612.93,5000,Pending,Sample record
+PF000997,2025-05-23,Income,Salary,Monthly,204.71,USD,Debit Card,Uber,Sydney,Credit,2000,553.43,5000,Completed,Sample record
+PF000998,2025-03-24,Expense,Food,Groceries,115.19,USD,Bank Transfer,Walmart,London,Credit,2000,1125.03,5000,Pending,Sample record
+PF000999,2025-05-27,Expense,Food,Groceries,244.99,USD,Debit Card,Local Store,New York,Checking,2000,1409.67,5000,Pending,Sample record
+PF001000,2025-08-28,Expense,Food,Groceries,317.61,USD,Debit Card,Amazon,London,Savings,2000,1351.98,5000,Pending,Sample record
